@@ -7,3 +7,11 @@ textarea{
 	direction: rtl;
 	resize : none;
 }
+
+#content{
+	direction: rtl;
+}
+
+#content code{
+	direction: ltr;
+}
