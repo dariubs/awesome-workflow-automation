@@ -1,0 +1,9 @@
+textarea{
+	display: block;
+	border: 2px solid lightblue;
+	width: 90%;
+	padding: 2em;
+	margin: 0 auto;
+	direction: rtl;
+	resize : none;
+}
