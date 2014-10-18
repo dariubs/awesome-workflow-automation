@@ -1,18 +1,39 @@
-
+﻿
 
 (function(){
+	var initUrl = 'http://localhost/rtl/initcontent.md';
 
 	$(document).ready(function(){
-	    $('textarea').autosize();
+
+	    
 	   	$('body').append('<div id="content"></div>');
+
+
+
+	   	$.get( initUrl)
+			.done(function( data ) {
+				$('#box').val(data);
+			});
+
+		
+
+		var opts = {
+		    onInitialize : true
+		};
+
+
+		$('#box').autogrow(opts);
+
+	   	
 	   	var content = $('#box').val();
 	    $('#content').html(marked(content));
-	    
 
-	    $("#box").on('keydown', function() {
-	    	var content = $('#box').val();
+		setInterval(function(){
+			var content = $('#box').val();
 	    	$('#content').html(marked(content));
-		});
+		}, 2000);
+
+
 	});
 
 }())
