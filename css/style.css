@@ -1,3 +1,20 @@
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
+
+h1,h2,h3,h4,h5,h6,p,div{
+	font-family: 'Droid Arabic Naskh', serif;
+}
+
+
+#header{
+	direction: ltr;
+}
+
+#header h2{
+	text-align: center;
+	margin: 2em auto;
+} 
+
+
 #box{
 	display: block;
 	border: 2px solid lightblue;
@@ -7,6 +24,8 @@
 	direction: rtl;
 	resize : none;
 	float: right;
+	font-size: 1.4em;
+	line-height: 1.5em;
 }
 
 #content{
