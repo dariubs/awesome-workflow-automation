@@ -1,17 +1,21 @@
-textarea{
+#box{
 	display: block;
 	border: 2px solid lightblue;
-	width: 90%;
+	width: 45%;
 	padding: 2em;
 	margin: 0 auto;
 	direction: rtl;
 	resize : none;
+	float: right;
 }
 
 #content{
+	width: 45%;
 	direction: rtl;
+	float: right;
+	margin: 1em;
 }
 
-#content code{
+pre, code{
 	direction: ltr;
 }
