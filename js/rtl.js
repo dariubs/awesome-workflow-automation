@@ -1,7 +1,7 @@
 ﻿
 
 (function(){
-	var initUrl = 'http://localhost/rtl/initcontent.md';
+	var initUrl = 'http://dariubs.github.io/rtlmd/initcontent.md';
 
 	$(document).ready(function(){
 
