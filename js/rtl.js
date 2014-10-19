@@ -24,9 +24,10 @@
 		setInterval(function(){
 			var content = $('#box').val();
 	    	$('#content').html(marked(content));
+	    	hljs.initHighlightingOnLoad();
 		}, 2000);
 
-		hljs.initHighlightingOnLoad();
+
 
 
 	});
