@@ -19,8 +19,8 @@ h1,h2,h3,h4,h5,h6,p,div{
 	display: block;
 	border: 2px solid lightblue;
 	width: 45%;
-	padding: 2em;
-	margin: 0 auto;
+	padding: 2%;
+	margin: 0 0;
 	direction: rtl;
 	resize : none;
 	float: right;
@@ -29,10 +29,11 @@ h1,h2,h3,h4,h5,h6,p,div{
 }
 
 #content{
-	width: 45%;
+	width: 45%%;
 	direction: rtl;
 	float: right;
-	margin: 0.3em;
+	padding: 2%;
+	margin: 0;
 }
 
 pre, code{
