@@ -32,7 +32,7 @@ h1,h2,h3,h4,h5,h6,p,div{
 	width: 45%;
 	direction: rtl;
 	float: right;
-	margin: 1em;
+	margin: 0.3em;
 }
 
 pre, code{
