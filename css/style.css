@@ -18,7 +18,7 @@ h1,h2,h3,h4,h5,h6,p,div{
 #box{
 	display: block;
 	border: 2px solid lightblue;
-	width: 45%;
+	width: 40%;
 	padding: 2%;
 	margin: 0 0;
 	direction: rtl;
@@ -29,7 +29,7 @@ h1,h2,h3,h4,h5,h6,p,div{
 }
 
 #content{
-	width: 45%%;
+	width: 40%%;
 	direction: rtl;
 	float: right;
 	padding: 2%;
