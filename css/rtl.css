@@ -6,12 +6,16 @@ body{
 }
 
 
-h1,h2,h3,h4,h5,h6,p,div{
+h1,h2,h3,h4,h5,h6,p,div,strong,em{
 	font-family:  'Open Sans','Droid Arabic Naskh', serif;
 }
 
 a{
 	text-decoration: none;
+}
+
+{
+	font-family: 'Open Sans','Droid Arabic Naskh', serif;
 }
 
 
