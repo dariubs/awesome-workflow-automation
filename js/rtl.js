@@ -1,36 +1,28 @@
-﻿
+
 
 (function(){
-	var initUrl = 'http://dariubs.github.io/rtlmd/initcontent.md';
+
+	var initUrl = 'http://localhost/rtl/initcontent.md';
+
 	$(document).ready(function(){
-
-
-	   	$('body').append('<div id="content"></div>');
-	   	$.get( initUrl)
+		
+	   	$.get(initUrl)
 			.done(function( data ) {
-				$('#box').val(data);
+				$('textarea').val(data);
 			});
-		var opts = {
-		    onInitialize : true
-		};
 
+		$('textarea').autogrow();
 
-		$('#box').autogrow(opts);
+	   	var content = $('textarea').val();
 
-	   	
-	   	var content = $('#box').val();
-	    $('#content').html(marked(content));
+	    $('#output').html(marked(content));
 
 		setInterval(function(){
-			var content = $('#box').val();
-			hljs.initHighlightingOnLoad();
-	    	$('#content').html(marked(content));
+			var content = $('textarea').val();
+			
+	    	$('#output').html(marked(content));
 
 		}, 2000);
-
-
-
-
 	});
 
 }())

@@ -3,25 +3,45 @@
 <head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>RTL Markdown Editor</title>
-	<link rel="stylesheet" href="css/style.css">
-	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.3/styles/default.min.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title></title>
+	<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
+	<link rel="stylesheet" href="css/rtl.css">
+
 </head>
 <body>
 
-	<!-- TOP LEFT RIBBON: START COPYING HERE -->
-    <span id="forkongithub"><a href="https://github.com/dariubs/rtlmd">Fork me on GitHub</a></span>
+<div id="header">
+	<h1 id="sitename">RTL Markdown</h1>
+	<p id="sitedescription">A fast simple right-to-left markdown editor</p>
+	<!-- Ribbon -->
+	<a href="https://github.com/dariubs/rtlmd"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/82b228a3648bf44fc1163ef44c62fcc60081495e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png"></a>
+</div>
+
+<div id="editor" class="pure-g">
+	<div id="tools">
 	
-	<div id="header">
-		<h2>Right-to-Left MarkDown Editor</h2>
 	</div>
 
-	<textarea name="content" id="box" rows="35"></textarea>
-	<script src="js/marked.js" type="text/javascript"></script>
+	<div id="textbox" class="pure-u-1-2">
+		<textarea rows="35"></textarea>
+	</div>
+
+	<div id="output" class="pure-u-1-2">
+		
+	</div>
+</div>
+
+<div id="footer">
+	<hr>
+	<p id="footercontent">with ❤ by <a href="http://twitter.com/dariubs">dariubs</a> </p>
+</div>
+
+
+‍	<script src="js/marked.js" type="text/javascript"></script>
 	<script src="js/jquery-1.11.1.min.js" type="text/javascript"></script>
-	<script src="js/jquery.autosize.js" type="text/javascript"></script>
 	<script src="js/autogrow.min.js" type="text/javascript"></script>
-	<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.3/highlight.min.js"></script>
+	
 	<script src="js/rtl.js" type="text/javascript" charset="utf-8"></script>
 
 </body>
