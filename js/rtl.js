@@ -5,11 +5,15 @@
 	var initUrl = 'http://dariubs.github.io/rtlmd/initcontent.md';
 	$(document).ready(function(){
 	   	
-
-	   	$.get(initUrl)
+		if(localStorage!='' && localStorage['content']!=null){
+			$('textarea').val(localStorage['content']);
+		}else{
+			$.get(initUrl)
 			.done(function( data ) {
 				$('textarea').val(data);
 			});
+		}
+	   	
 
 		$('textarea').autogrow();
 
@@ -18,10 +22,10 @@
 	    $('#output').html(marked(content));
 
 		setInterval(function(){
-			var content = marked($('textarea').val());
-			
-	    	$('#output').html(content);
-	    	localStorage['content'] = content;
+			var content = $('textarea').val();
+			localStorage['content'] = content;
+	    	$('#output').html(marked(content));
+	    	
 
 
 		}, 3000);
