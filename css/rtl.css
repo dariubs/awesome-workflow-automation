@@ -18,6 +18,18 @@ a{
 	font-family: 'Open Sans','Droid Arabic Naskh', serif;
 }
 
+li{
+	padding-right: 1em;
+}
+
+li li{
+	padding-right: 2em;
+}
+
+li li li{
+	padding-right: 4em;
+}
+
 
 #header{
 
