@@ -72,14 +72,26 @@ li li li{
 	#editor #output{
 
 	}
-		pre, code{
+
+        code{
+            display: inline-block;
+            direction: ltr;
+            font-family: 'Fira Mono', sans-serif;
+            padding: 0.5em;
+            font-size: 0.9em;
+            color: #913D88;
+            background-color: beige;
+        }
+		pre code{
 			display: block;
 			direction: ltr;
 			font-family: 'Fira Mono', sans-serif;
 			margin-left: 2em;
 			font-size: 0.9em;
 			color: #913D88;
+            background-color: beige;
 		}
+
 
 #footer{
 
