@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+<head>
+  <title>jQuery autoGrow plugin example</title>
+  <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/zepto/0.8/zepto.min.js"></script>
+  <script type="text/javascript" src="../lib/jquery-autogrow.js"></script>
+  <style type="text/css">
+
+#title {
+  font-family: serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  width: 250px;
+  max-width: 400px;
+  border: none;
+  -webkit-transition: all 100ms linear;
+  -moz-transition: all 100ms linear;
+  -o-transition: all 100ms linear;
+  transition: all 100ms linear;
+}
+
+#message {
+  width: 400px;
+  max-width: 400px;
+  min-height: 70px;
+}
+
+.half {
+  float: left;
+  width: 500px;
+}
+
+  </style>
+  <script type="text/javascript">
+
+$(function () {
+
+  $('#title').autoGrow();
+
+});
+
+  </script>
+</head>
+<body>
+<h1>jQuery autoGrow plugin</h1>
+<div id="example" class="first half">
+<p><input id="title" type="text" placeholder="Untitled" /></p>
+<p><textarea id="message" type="text">
+This is an example of autogrowing html input fields.
+
+Try to add long title above or
+type another paragraph here.
+
+</textarea></p>
+</div>
+</body>
+</html>

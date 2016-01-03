@@ -1,0 +1,19 @@
+
+[indentation]
+indent_width=2
+indent_type=0
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=3
+
+[project]
+name=jquery-autogrow
+base_path=/home/acl/Projects/jquery-autogrow/
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=85
+
+[files]
+current_page=0

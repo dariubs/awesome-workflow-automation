@@ -1,0 +1,14 @@
+{
+  "name": "jquery-autogrow",
+  "homepage": "https://github.com/rkivalin/jquery-autogrow",
+  "_release": "c7d9994629",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "c7d999462910eccd1e59be871dfc50c351214225"
+  },
+  "_source": "git://github.com/rkivalin/jquery-autogrow.git",
+  "_target": "*",
+  "_originalSource": "jquery-autogrow",
+  "_direct": true
+}
