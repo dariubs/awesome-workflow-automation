@@ -1,0 +1,27 @@
+{
+  "name": "RTLMD",
+  "homepage": "https://dariubs.github.io/rtlmd",
+  "authors": [
+    "Dariush Abbasi <poshtehani@gmail.com>"
+  ],
+  "description": "RTL markdown editor",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "md",
+    "markdown",
+    "rtl",
+    "editor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
