@@ -1,61 +1,57 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
-<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
-<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" manifest="rtlmd.appcache"> <!--<![endif]-->
-<head>
-	<!--meta tags-->
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="description" content="fast simple rtl (right-to-left) markdown editor that renders realtime resullts in html">
-	<meta name="keywords" content="RTL,Markdown,farsi,arabic,hebrew">
-	<meta name="author" content="Dariush Abbasi">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="robots" content="INDEX,FOLLOW">
-	
-	<title>RTL markdown</title>
-	
-	<!--StyleSheets-->
-	<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
-	<link rel="stylesheet" href="css/rtl.css">
-</head>
-<body>
-<!--[if lt IE 7]>
-    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
-<![endif]-->
+<html>
+	<head>
+		<!--meta tags-->
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="description" content="fast simple rtl (right-to-left) markdown editor that renders realtime resullts in html">
+		<meta name="keywords" content="RTL,Markdown,farsi,arabic,hebrew">
+		<meta name="author" content="Dariush Abbasi">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="robots" content="INDEX,FOLLOW">
 
-<!--Header section-->
-<div id="header">
-	<h1 id="sitename">RTL Markdown Editor</h1>
-	<p id="sitedescription">A fast simple right-to-left markdown editor</p>
-	<!-- Ribbon -->
-	<a href="https://github.com/dariubs/rtlmd"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/82b228a3648bf44fc1163ef44c62fcc60081495e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png"></a>
-</div>
+		<title>RTL markdown</title>
 
-<!--Editor tools-->
-<div id="tools">
-</div>
+		<!--StyleSheets-->
+		<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/pure-min.css">
+		<link rel="stylesheet" href="css/rtl.css">
+	</head>
+	<body>
+	<!--[if lt IE 7]>
+	    <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+	<![endif]-->
 
-<!--Editor-->
-<div id="editor" class="pure-g">
-	<div id="textbox" class="pure-u-1-2">
-		<textarea rows="40"></textarea>
+	<!--Header section-->
+	<div id="header">
+		<h1 id="sitename">RTL Markdown Editor</h1>
+		<p id="sitedescription">A fast simple right-to-left markdown editor</p>
+		<!-- Ribbon -->
+		<a href="https://github.com/dariubs/rtlmd"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/82b228a3648bf44fc1163ef44c62fcc60081495e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png"></a>
 	</div>
-	<div id="output" class="pure-u-1-2">
+
+	<!--Editor tools-->
+	<div id="tools">
 	</div>
-</div>
 
-<!--Footer-->
-<div id="footer">
-	<hr>
-	<p id="footercontent">with ❤ by <a href="http://dariubs.github.io">Dariush</a> </p>
-</div>
+	<!--Editor-->
+	<div id="editor" class="pure-g">
+		<div id="textbox" class="pure-u-1-2">
+			<textarea rows="40"></textarea>
+		</div>
+		<div id="output" class="pure-u-1-2">
+		</div>
+	</div>
 
-<!-- Scripts -->
-<script src="js/marked.js" type="text/javascript"></script>
-<script src="js/jquery-1.11.1.min.js" type="text/javascript"></script>
-<script src="js/autogrow.min.js" type="text/javascript"></script>
-<script src="js/rtl.js" type="text/javascript" charset="utf-8"></script>
+	<!--Footer-->
+	<div id="footer">
+		<hr>
+		<p>with ❤ by <a href="http://dariubs.github.io">Dariush</a> </p>
+	</div>
 
-</body>
+		<!-- Scripts -->
+		<script src="assets/marked/marked.min.js" type="text/javascript"></script>
+		<script src="assets/jquery/dist/jquery.min.js" type="text/javascript"></script>
+		<script src="app/js/autogrow.js" type="text/javascript" charset="utf-8"></script>
+		<script src="app/js/rtlmd.js" type="text/javascript" charset="utf-8"></script>
+	</body>
 </html>

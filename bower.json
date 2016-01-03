@@ -24,6 +24,5 @@
   "dependencies": {
     "jquery": "~2.1.4",
     "marked": "~0.3.5",
-    "jquery-autogrow": "*"
   }
 }
