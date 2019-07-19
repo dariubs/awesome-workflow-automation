@@ -1,105 +1,111 @@
 @import url(http://fonts.googleapis.com/earlyaccess/droidarabicnaskh.css);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans|Fira+Mono);
 
-body{
+body {
 	background-color: #fff;
 }
 
 
-h1,h2,h3,h4,h5,h6,p,div,strong,em,ul,ol,li{
+h1, h2, h3, h4, h5, h6, p, div, strong, em, ul, ol, li {
 	font-family:  'Open Sans','Droid Arabic Naskh', serif;
 }
 
-a{
+a {
 	text-decoration: none;
 }
 
-{
+* {
 	font-family: 'Open Sans','Droid Arabic Naskh', serif;
 }
 
-li{
+li {
 	padding-right: 1em;
 }
 
-li li{
+li li {
 	padding-right: 2em;
 }
 
-li li li{
+li li li {
 	padding-right: 4em;
 }
 
-
-#header{
-
+blockquote p {
+	border-right: 5px solid #d6d3d3;
+	padding-right: 8px;
 }
-	#header #sitename{
-		text-align: center;
-		margin-bottom: 0px;
-		padding-bottom: 0px;
-	}
 
-	#header #sitedescription{
-		text-align: center;
-		font-size: 1em;
-		margin-top: 0px;
-		padding-top: 0px;
-		margin-bottom: 2em;
-	}
+#header {
+	
+}
 
+#header #sitename {
+	text-align: center;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+}
 
-#editor{
+#header #sitedescription {
+	text-align: center;
+	font-size: 1em;
+	margin-top: 0px;
+	padding-top: 0px;
+	margin-bottom: 2em;
+}
+
+#editor {
 	direction: rtl;
 }
-	#editor #tools{
 
-	}
+#editor #tools {
+	
+}
 
-	#editor #textbox{
+#editor #textbox {
+	
+}
 
-	}
+#editor #textbox textarea {
+	background-color: #fbfbfb;
+	width: 90%;
+	padding: 1em;
+	-moz-box-shadow:    inset 0 0 0.25em #fCCEf0;
+	-webkit-box-shadow: inset 0 0 0.25em #fCCEf0;
+	box-shadow:         inset 0 0 0.25em #fCCEf0;
+}
 
-		#editor #textbox textarea{
-			background-color: #fbfbfb;
-			width: 90%;
-			padding: 1em;
-			-moz-box-shadow:    inset 0 0 0.25em #fCCEf0;
-			-webkit-box-shadow: inset 0 0 0.25em #fCCEf0;
-			box-shadow:         inset 0 0 0.25em #fCCEf0;
-		}
-
-	#editor #output{
-
-	}
-
-        code{
-            display: inline-block;
-            direction: ltr;
-            font-family: 'Fira Mono', sans-serif;
-            padding: 0.5em;
-            font-size: 0.9em;
-            color: #913D88;
-            background-color: beige;
-        }
-		pre code{
-			display: block;
-			direction: ltr;
-			font-family: 'Fira Mono', sans-serif;
-			margin-left: 2em;
-			font-size: 0.9em;
-			color: #913D88;
-            background-color: beige;
-		}
-
-
-#footer{
+#editor #output {
 
 }
-	#footer #footercontent{
-		text-align: right;
-		margin-top: 2em;
-		margin-right: 2em;
-		font-size: 0.9em;
-		font-family: 'Fira Mono', sans-serif;
-	}
+
+code {
+	display: inline-block;
+	direction: ltr;
+	font-family: 'Fira Mono', sans-serif;
+	padding: 0.5em;
+	font-size: 0.9em;
+	color: #913D88;
+	background-color: beige;
+}
+
+pre code {
+	display: block;
+	direction: ltr;
+	font-family: 'Fira Mono', sans-serif;
+	margin-left: 2em;
+	font-size: 0.9em;
+	color: #913D88;
+	background-color: beige;
+}
+
+#footer {
+
+}
+
+#footer #footercontent {
+	text-align: right;
+	margin-top: 2em;
+	margin-right: 2em;
+	font-size: 0.9em;
+	font-family: 'Fira Mono', sans-serif;
+}
