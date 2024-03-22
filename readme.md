@@ -7,6 +7,7 @@ A curated list of Awesome Workflow Automation Software, Tools, Articles, Resourc
 - [Tools](#tools)
 - [Articles](#articles)
 - [Books](#books)
+- [Resources](#resources)
 - [Contributing](#contributing)
 
 ## Introduction
@@ -40,6 +41,10 @@ A collection of powerful tools for automating workflows, enhancing productivity,
 
 - [Workflow Automation with Microsoft Power Automate](https://www.amazon.com/Workflow-Automation-Microsoft-Power-Automate/dp/1839213795): Achieve digital transformation through business automation with minimal coding
 
+
+# Resources
+
+- [Productivity Tools List](https://productivity.directory) - A curated list of Productivity tools and apps
 
 ## Contributing
 Your contributions are always welcome! Please read the [contributing guide](CONTRIBUTING.md) before making a pull request.
