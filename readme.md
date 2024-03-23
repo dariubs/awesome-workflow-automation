@@ -1,4 +1,4 @@
-# Awesome Workflow Automation
+# Awesome Workflow Automation Software and Tools
 A curated list of Awesome Workflow Automation Software, Tools, Articles, Resources, and Inspirations. Aimed at improving productivity and efficiency for individuals and teams by automating repetitive tasks.
 
 
