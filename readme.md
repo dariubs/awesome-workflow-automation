@@ -45,6 +45,10 @@ A collection of powerful tools for automating workflows, enhancing productivity,
 # Resources
 
 - [Productivity Tools List](https://productivity.directory) - A curated list of Productivity tools and apps
+- [The Productivity Blog](https://blog.productivity.directory) - Proven Productivity Tips, Tricks, and App Reviews to Streamline Your Life and Work.
+- [The Productivity Newsletter](https://newsletter.productivity.directory) - Weekly Productivity Boost With Hot Productivity Hacks and Tools To Optimize Your Workflow And Achieve More.
+
+
 
 ## Contributing
 Your contributions are always welcome! Please read the [contributing guide](CONTRIBUTING.md) before making a pull request.
