@@ -40,7 +40,10 @@ A collection of powerful tools for automating workflows, enhancing productivity,
 ## Books
 
 - [Workflow Automation with Microsoft Power Automate](https://www.amazon.com/Workflow-Automation-Microsoft-Power-Automate/dp/1839213795): Achieve digital transformation through business automation with minimal coding
-
+- [Automate It with Zapier and Generative AI - Second Edition](https://www.amazon.com/Automate-Zapier-Generative-automation-productivity/dp/1803239840/): Harness the power of no-code workflow automation and AI with Zapier to increase business productivity
+- [Automate This: How Algorithms Came to Rule Our World](https://www.amazon.com/Automate-This-Algorithms-Plattner-Sept/dp/1591844924): A fascinating look into how algorithms shape our daily lives and the economy.
+- Hyperautomation: A Business Guide to Navigating the Future with Robotic Process Automation
+- The Art of Automation: A Guide to Using Automation to Enhance Business Performance
 
 # Resources
 
