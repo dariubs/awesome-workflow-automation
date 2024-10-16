@@ -36,6 +36,7 @@ A collection of powerful tools for automating workflows, enhancing productivity,
 - **[Automate.io](https://automate.io/)** - *[Review](https://productivity.directory/automate-io)*: Enables app integrations and automations for businesses.
 - **[Tallyfy](https://tallyfy.com/)** - *[Review](https://productivity.directory/tallyfy)*: Streamlines and automates business processes with an easy-to-use interface.
 - **[Parabola](https://parabola.io/)** - *[Review](https://productivity.directory/parabola)*: Allows non-coders to automate complex workflows and tasks.
+- **[Automateo](https://automateo.app)** - Build and integrate LLM prompt workflows that deliver high-quality and consistent outputs - for solo builders and entrepreneurs.
 
 ## Articles
 - **[Workflow Automation](https://blog.productivity.directory/tagged/workflow-automation) tagged** from [The Productivity Blog](https://blog.productivity.directory/)
