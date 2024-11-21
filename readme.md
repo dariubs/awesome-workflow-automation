@@ -37,6 +37,7 @@ A collection of powerful tools for automating workflows, enhancing productivity,
 - **[Tallyfy](https://tallyfy.com/)** - *[Review](https://productivity.directory/tallyfy)*: Streamlines and automates business processes with an easy-to-use interface.
 - **[Parabola](https://parabola.io/)** - *[Review](https://productivity.directory/parabola)*: Allows non-coders to automate complex workflows and tasks.
 - **[Automateo](https://automateo.app)** - Build and integrate LLM prompt workflows that deliver high-quality and consistent outputs - for solo builders and entrepreneurs.
+- **[HumanizeAI](https://humanizeai.now)** - Humanize and Generate 100% Undetectable text to boost your SEO.
 
 ## Articles
 - **[Workflow Automation](https://blog.productivity.directory/tagged/workflow-automation) tagged** from [The Productivity Blog](https://blog.productivity.directory/)
