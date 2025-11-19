@@ -55,6 +55,7 @@ Each tool listed below includes a link to a **detailed review** on [productivity
 | **[n8n](https://n8n.io/)** — *[Review](https://productivity.directory/n8n)* | Open-source automation tool for developers and teams. |
 | **[Parabola](https://parabola.io/)** — *[Review](https://productivity.directory/parabola)* | No-code automation for working with data workflows. |
 | **[Pipedream](https://pipedream.com/)** — *[Review](https://productivity.directory/pipedream)* | Developer-first automation for APIs, events, and data flows. |
+| **[ScraperCity](https://scrapercity.com)** | Web scraping API with specialized pre-built scrapers for Apollo.io, Google Maps, and YouTube. Automate data extraction workflows with built-in proxy rotation, JavaScript rendering, and CAPTCHA handling. |
 | **[Smartsheet](https://www.smartsheet.com/)** — *[Review](https://productivity.directory/smartsheet)* | Collaborative work management with automation features. |
 | **[Tallyfy](https://tallyfy.com/)** — *[Review](https://productivity.directory/tallyfy)* | Automate workflows, approvals, and standard operating procedures. |
 | **[Tray.io](https://tray.io/)** — *[Review](https://productivity.directory/tray-io)* | Enterprise-grade low-code automation builder. |
