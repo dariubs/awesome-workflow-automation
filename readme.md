@@ -62,6 +62,7 @@ Each tool listed below includes a link to a **detailed review** on [productivity
 | **[Workato](https://www.workato.com/)** — *[Review](https://productivity.directory/workato)* | Intelligent automation platform with AI capabilities. |
 | **[Wrike](https://www.wrike.com/)** — *[Review](https://productivity.directory/wrike)* | Project management with customizable workflow automation. |
 | **[Zapier](https://zapier.com/)** — *[Review](https://productivity.directory/zapier)* | Connect your apps and automate thousands of workflows easily. |
+| **[OpenCreator](https://opencreator.ai)** | All-in-one AI workspace for creating product visuals with node-based workflow automation and batch generation. |
 
 ---
 
