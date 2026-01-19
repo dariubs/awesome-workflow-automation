@@ -53,6 +53,7 @@ Each tool listed below includes a link to a **detailed review** on [productivity
 | **[Make (formerly Integromat)](https://www.make.com/)** — *[Review](https://productivity.directory/make)* | Powerful visual workflow automation platform. |
 | **[Microsoft Power Automate](https://flow.microsoft.com/)** — *[Review](https://productivity.directory/microsoft-power-automate)* | Enterprise-grade process automation by Microsoft. |
 | **[n8n](https://n8n.io/)** — *[Review](https://productivity.directory/n8n)* | Open-source automation tool for developers and teams. |
+| **[Openwork](https://github.com/accomplish-ai/openwork)** | MIT-licensed, open alternative to Anthropic's Cowork with multi-LLM support for browser automation. |
 | **[Parabola](https://parabola.io/)** — *[Review](https://productivity.directory/parabola)* | No-code automation for working with data workflows. |
 | **[Pipedream](https://pipedream.com/)** — *[Review](https://productivity.directory/pipedream)* | Developer-first automation for APIs, events, and data flows. |
 | **[Smartsheet](https://www.smartsheet.com/)** — *[Review](https://productivity.directory/smartsheet)* | Collaborative work management with automation features. |
