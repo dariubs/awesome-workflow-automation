@@ -61,6 +61,7 @@ Each tool listed below includes a link to a **detailed review** on [productivity
 | **[Windmill](https://www.windmill.dev/0)** | Build workflows, data pipelines, and cron jobs from code. |
 | **[Workato](https://www.workato.com/)** — *[Review](https://productivity.directory/workato)* | Intelligent automation platform with AI capabilities. |
 | **[Wrike](https://www.wrike.com/)** — *[Review](https://productivity.directory/wrike)* | Project management with customizable workflow automation. |
+| **[What Broke Today](https://whatbroke.today/)** | AI-powered outage aggregator tracking 100+ cloud services. Automates monitoring with Telegram alerts, RSS feed, and JSON API. |
 | **[Zapier](https://zapier.com/)** — *[Review](https://productivity.directory/zapier)* | Connect your apps and automate thousands of workflows easily. |
 
 ---
