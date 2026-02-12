@@ -57,6 +57,7 @@ Each tool listed below includes a link to a **detailed review** on [productivity
 | **[Pipedream](https://pipedream.com/)** — *[Review](https://productivity.directory/pipedream)* | Developer-first automation for APIs, events, and data flows. |
 | **[Smartsheet](https://www.smartsheet.com/)** — *[Review](https://productivity.directory/smartsheet)* | Collaborative work management with automation features. |
 | **[Tallyfy](https://tallyfy.com/)** — *[Review](https://productivity.directory/tallyfy)* | Automate workflows, approvals, and standard operating procedures. |
+| **[Taskade](https://taskade.com/automate)** — *[Review](https://productivity.directory/taskade)* | AI-powered workflow automation with durable execution, branching/looping/filtering, 100+ integrations, and custom AI agents. |
 | **[Tray.io](https://tray.io/)** — *[Review](https://productivity.directory/tray-io)* | Enterprise-grade low-code automation builder. |
 | **[Windmill](https://www.windmill.dev/0)** | Build workflows, data pipelines, and cron jobs from code. |
 | **[Workato](https://www.workato.com/)** — *[Review](https://productivity.directory/workato)* | Intelligent automation platform with AI capabilities. |
