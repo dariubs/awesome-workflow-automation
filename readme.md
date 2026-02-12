@@ -97,6 +97,7 @@ Each tool listed below includes a link to a **detailed review** on [productivity
 - 🔧 [**Productivity Tools Directory**](https://productivity.directory) – Find the best productivity and automation apps.
 - 📰 [**The Productivity Blog**](https://blog.productivity.directory) – Tutorials, app reviews, and automation guides.
 - ✉️ [**Productivity Newsletter**](https://newsletter.productivity.directory) – Weekly roundup of top productivity tools and hacks.
+- 🤖 [**Awesome Vibe Coding**](https://github.com/taskade/awesome-vibe-coding) – A curated list of 245+ AI coding tools, platforms, and resources for building software through natural language prompts.
 
 ---
 
