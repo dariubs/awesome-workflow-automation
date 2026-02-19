@@ -47,6 +47,7 @@ Each tool listed below includes a link to a **detailed review** on [productivity
 | **[Automateo](https://automateo.app)** | Create LLM-based workflows that produce consistent AI outputs. |
 | **[Automatisch](https://automatisch.io/)** — *[Review](https://productivity.directory/automatisch)* | Open-source Zapier alternative for workflow automation. |
 | **[ClickUp](https://clickup.com/)** — *[Review](https://productivity.directory/clickup)* | All-in-one project management with automations. |
+| **[Dreamlit AI](https://dreamlit.ai/)** | AI email agent that turns database events into automated email workflows. |
 | **[Huginn](https://github.com/huginn/huginn)** — *[Review](https://productivity.directory/huginn)* | Automate web tasks with agents and custom workflows. |
 | **[IFTTT](https://ifttt.com/)** — *[Review](https://productivity.directory/ifttt)* | Easy automation for web services and smart devices. |
 | **[Lucidchart](https://www.lucidchart.com/)** — *[Review](https://productivity.directory/lucidchart)* | Visual workflow mapping and diagramming. |
