@@ -68,6 +68,8 @@ Each tool listed below includes a link to a **detailed review** on [productivity
 ## 📝 Articles on Workflow Automation
 
 - [**Workflow Automation Articles**](https://blog.productivity.directory/tagged/workflow-automation) on [The Productivity Blog](https://blog.productivity.directory)
+- [**Automatizar LinkedIn con IA: Guía de Prospección B2B [2026]**](https://www.upliora.es/blog/automatizar-linkedin-ia-guia-prospeccion-b2b-2026) - Spanish guide to automating LinkedIn outreach and B2B prospecting using AI tools and n8n.
+- [**Crear Chatbot WhatsApp con n8n Gratis [2026]**](https://www.upliora.es/blog/crear-chatbot-whatsapp-n8n-gratis-tutorial-completo-2026) - Complete tutorial (in Spanish) for building a free WhatsApp chatbot with n8n and AI integrations.
 - [**Zapier Automation Basics**](https://zapier.com/blog/how-to-use-zapier/)
 - [**When to Use RPA vs Workflow Automation Software**](https://www.uipath.com/blog/rpa-vs-workflow-automation)
 
@@ -96,6 +98,7 @@ Each tool listed below includes a link to a **detailed review** on [productivity
 
 - 🔧 [**Productivity Tools Directory**](https://productivity.directory) – Find the best productivity and automation apps.
 - 📰 [**The Productivity Blog**](https://blog.productivity.directory) – Tutorials, app reviews, and automation guides.
+- 🤖 [**Upliora.es**](https://www.upliora.es) – Independent AI tools comparisons, automation guides, and n8n/AI tutorials in Spanish for professionals and businesses.
 - ✉️ [**Productivity Newsletter**](https://newsletter.productivity.directory) – Weekly roundup of top productivity tools and hacks.
 
 ---
