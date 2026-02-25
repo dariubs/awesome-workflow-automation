@@ -89,6 +89,7 @@ Each tool listed below includes a link to a **detailed review** on [productivity
 
 ## 🎥 Video Tutorials & Courses
 
+- [**OpenClaw: AI Automation for Entrepreneurs**](https://openclawapp.netlify.app) – Learn to build AI-powered workflow automations (no code required)
 - [**Zapier YouTube Channel**](https://www.youtube.com/playlist?list=PLg5SS_4L6LYu7kHf6ZE-3DKLhQZ3WvSWU)
 - [**n8n Academy**](https://academy.n8n.io/)
 - [**Power Automate: Beginner’s Guide**](https://www.youtube.com/watch?v=U8BPqM0tmXo)
@@ -101,6 +102,8 @@ Each tool listed below includes a link to a **detailed review** on [productivity
 - 🔧 [**Productivity Tools Directory**](https://productivity.directory) – Find the best productivity and automation apps.
 - 📰 [**The Productivity Blog**](https://blog.productivity.directory) – Tutorials, app reviews, and automation guides.
 - ✉️ [**Productivity Newsletter**](https://newsletter.productivity.directory) – Weekly roundup of top productivity tools and hacks.
+- 🛠️ [**AI Tools Comparison Matrix**](https://openclawapp.netlify.app/ai-tools-comparison/) – Compare AI automation tools (ChatGPT, Zapier, Make, n8n, etc.)
+- 📊 [**10-Minute AI Audit**](https://openclawapp.netlify.app/ai-audit/) – Calculate ROI of AI automation for your business
 
 ---
 
