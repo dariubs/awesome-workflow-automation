@@ -49,6 +49,7 @@ Each tool listed below includes a link to a **detailed review** on [productivity
 | **[ClickUp](https://clickup.com/)** — *[Review](https://productivity.directory/clickup)* | All-in-one project management with automations. |
 | **[Huginn](https://github.com/huginn/huginn)** — *[Review](https://productivity.directory/huginn)* | Automate web tasks with agents and custom workflows. |
 | **[IFTTT](https://ifttt.com/)** — *[Review](https://productivity.directory/ifttt)* | Easy automation for web services and smart devices. |
+| **[Latenode](https://latenode.com/)** | Build AI Agents and Integrate with Apps & APIs. |
 | **[Lucidchart](https://www.lucidchart.com/)** — *[Review](https://productivity.directory/lucidchart)* | Visual workflow mapping and diagramming. |
 | **[Make (formerly Integromat)](https://www.make.com/)** — *[Review](https://productivity.directory/make)* | Powerful visual workflow automation platform. |
 | **[Microsoft Power Automate](https://flow.microsoft.com/)** — *[Review](https://productivity.directory/microsoft-power-automate)* | Enterprise-grade process automation by Microsoft. |
