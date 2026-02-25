@@ -42,6 +42,7 @@ Each tool listed below includes a link to a **detailed review** on [productivity
 | **[ActivePieces](https://www.activepieces.com/)** — *[Review](https://productivity.directory/activepieces)* | Open-source, all-in-one automation platform. |
 | **[Airtable](https://airtable.com/)** — *[Review](https://productivity.directory/airtable)* | Combine spreadsheets and databases with automated workflows. |
 | **[Agent Builder](https://productivity.directory/agent-builder)** — *[Review](https://productivity.directory/agent-builder)* | Build your own custom AI assistants with OpenAI’s no-code Agent Builder. |
+| **[AI Assistant for SMBs](https://openclawapp.netlify.app/assistant/)** | Managed AI assistant service for small businesses. Executes tasks autonomously (not just writes drafts) - handles calls, emails, reports, bookings. Integrates with business tools, learns workflows, runs 24/7. |
 | **[Appian](https://www.appian.com/)** — *[Review](https://www.gartner.com/reviews/market/low-code-application-platform/vendor/appian)* | A low-code platform |
 | **[Automate.io](https://automate.io/)** — *[Review](https://productivity.directory/automate-io)* | Integrate apps and automate business tasks. |
 | **[Automateo](https://automateo.app)** | Create LLM-based workflows that produce consistent AI outputs. |
