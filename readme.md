@@ -247,6 +247,7 @@ Key stats:
 
 > AI that navigates websites, fills forms, extracts data, and completes web-based tasks autonomously. Adobe Analytics reported a 4,700% year-over-year increase in AI agent traffic to US retail sites in July 2025.
 
+- [AnchorBrowser](https://anchorbrowser.io) - Cloud browser platform for AI agents. Connect via WebSocket/CDP (Puppeteer & Playwright), with built-in stealth, CAPTCHA solving, and proxy rotation.
 ### AI Browser Agents
 
 - **[Browser-Use](https://github.com/browser-use/browser-use)** ⭐ 60K+ stars — Open-source Python library. Makes websites accessible to AI agents using a DOM + Vision hybrid approach. Works with Claude, GPT, Gemini, and local Ollama models. MIT license.
