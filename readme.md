@@ -158,6 +158,7 @@ Key stats:
 - **[Stack AI](https://www.stack-ai.com/)** — Visual builder → internal app or API. Templates for support, sales, policy Q&A. Enterprise governance with role-based access and audit history.
 
 - **[Agentforce (Salesforce)](https://www.salesforce.com/agentforce/)** — Salesforce's agentic AI platform. Deploy AI agents directly inside Slack as virtual teammates.
+- **[SlackClaw](https://slackclaw.ai)** — Managed hosting for OpenClaw AI agents in Slack. Per-channel permissions, audit logging, model-agnostic backend. Credit-based pricing instead of per-seat.
 
 ### 🏢 Enterprise AI Automation
 
@@ -402,6 +403,7 @@ Key stats:
 - [**OpenClaw Workflow Automation**](https://www.devshorts.in/p/openclaw-workflow-and-automation) — Dev Shorts
 - [**Meet OpenClaw**](https://www.vpsbg.eu/blog/meet-openclaw-a-revolution-in-ai-workflow-automation) — VPSBG
 
+- [**Why Your OpenClaw Slack Agent Keeps Breaking at 3am**](https://dev.to/helen_mireille_47b02db70c/why-your-openclaw-slack-agent-keeps-breaking-at-3am-1a70) — Five production failure modes and how to fix them.
 ### MCP
 - [**What is MCP?**](https://cloud.google.com/discover/what-is-model-context-protocol) — Google Cloud
 - [**MCP Nov 2025 Spec Update**](https://workos.com/blog/mcp-2025-11-25-spec-update) — WorkOS
