@@ -132,6 +132,8 @@ Key stats:
 
 > Run on your own machine. Private, always-on, multi-channel. This is where personal AI automation is headed.
 
+- **[Dorothy](https://github.com/Charlie85270/Dorothy)** — Open-source desktop app to orchestrate and automate multiple AI CLI agents (Claude Code, Codex, Gemini) with scheduled tasks, event-driven automations, Kanban management, and remote control via Telegram.
+
 - **[OpenClaw](https://github.com/openclaw/openclaw)** ⭐ — Your own personal AI assistant. Runs locally on any OS. Connects to WhatsApp, Telegram, Slack, Discord, Signal, iMessage, Microsoft Teams, Matrix, and more. Uses natural language — no predefined workflows needed. Features browser control, cron jobs, voice via ElevenLabs, multi-agent routing, Canvas workspace, and a public skill registry ([ClawHub](https://github.com/VoltAgent/awesome-openclaw-skills)) with 5,700+ community skills. Privacy-first. MIT license.
 
 - **[Openwork](https://github.com/accomplish-ai/openwork)** — MIT-licensed open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
