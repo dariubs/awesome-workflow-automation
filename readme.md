@@ -229,6 +229,8 @@ Key stats:
 
 - **[OpenWebUI](https://github.com/open-webui/open-webui)** ⭐ 50K+ stars — Feature-rich local web interface for LLMs (Ollama, OpenAI-compatible). Agent and workflow support.
 
+- **[FIM Agent](https://github.com/fim-ai/fim-agent)** — AI-powered Connector Hub. Python async framework with dynamic DAG planning, ReAct agent loop, MCP client support, RAG with grounded generation, and a connector platform that turns any API into agent tools. Three delivery modes: Standalone, Copilot, Hub.
+
 - **[Sim Studio](https://simstudio.ai/)** — Open-source visual builder for AI agent simulations and workflows.
 
 ### Specialized Agent Libraries
