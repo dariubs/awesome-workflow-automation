@@ -255,6 +255,8 @@ Key stats:
 
 - **[Stagehand](https://www.stagehand.dev/)** ⭐ 5K+ stars — AI-native Playwright wrapper. Adds LLM reasoning on top of deterministic Playwright scripting. Built and maintained by Browserbase.
 
+- **[Lumen](https://github.com/omxyz/lumen)** — Vision-first browser agent with self-healing deterministic replay over CDP. Screenshot → model → action loop with multi-provider support (Anthropic, Google). TypeScript, MIT licensed.
+
 - **[Playwright MCP](https://github.com/microsoft/playwright-mcp)** ⭐ 10K+ stars — Microsoft's MCP server for AI-controlled browser automation. Uses the accessibility tree (Snapshot Mode) — no screenshots needed, fast and deterministic.
 
 - **[Perplexity Comet](https://www.perplexity.ai/comet)** — Consumer AI browser (Chromium-based). Autonomous navigation, form filling, email and calendar management, voice control. Launched July 2025.
