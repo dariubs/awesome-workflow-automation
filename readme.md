@@ -367,6 +367,8 @@ Key stats:
 
 - **[Notion](https://www.notion.so/)** — All-in-one workspace with AI writing assistant and workflow automation via integrations.
 
+- **[Rhylthyme](https://www.rhylthyme.com/)** — Interactive schedule builder for coordinating parallel tasks with dependencies, resource constraints, and live execution timers.
+
 - **[Monday.com](https://monday.com/)** — Work OS with no-code automations, AI-powered features, and 200+ integrations.
 
 ---
