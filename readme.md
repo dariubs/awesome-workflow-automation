@@ -347,7 +347,7 @@ Key stats:
 
 - **[Dagster](https://dagster.io/)** — Data orchestration built around software-defined assets. Strong observability and testing support.
 
-- **[DataRaven](https://dataraven.io/)** — Managed rclone for cloud object storage.
+- **[DataRaven](https://dataraven.io/)** — Managed rclone for scheduled cloud object storage workflows.
 
 - **[Kestra](https://kestra.io/)** — Open-source declarative workflow orchestration. YAML-based, 500+ plugins, cloud-native.
 
