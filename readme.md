@@ -347,6 +347,8 @@ Key stats:
 
 - **[Dagster](https://dagster.io/)** — Data orchestration built around software-defined assets. Strong observability and testing support.
 
+- **[DataRaven](https://dataraven.io/)** — Managed rclone for scheduled cloud object storage workflows.
+
 - **[Kestra](https://kestra.io/)** — Open-source declarative workflow orchestration. YAML-based, 500+ plugins, cloud-native.
 
 - **[Apache Kafka](https://kafka.apache.org/)** — Distributed event streaming platform. Foundation for real-time data pipelines and event-driven automation.
