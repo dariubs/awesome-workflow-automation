@@ -337,6 +337,8 @@ Key stats:
 
 > For engineers managing data flows, ETL, scheduled jobs, and complex production pipelines.
 
+- **[Agent Skill Bus](https://github.com/ShunsukeHayashi/agent-skill-bus)** — Self-improving task orchestration for AI agents. JSONL-based DAG task queue with file-level locking, automatic skill quality monitoring, and drift detection. Zero dependencies.
+
 - **[Apache Airflow](https://airflow.apache.org/)** — Industry-standard open-source platform for authoring, scheduling, and monitoring data workflows. Python-based DAGs.
 
 - **[Prefect](https://www.prefect.io/)** — Modern Python workflow orchestration. Better developer experience than Airflow with strong observability.
