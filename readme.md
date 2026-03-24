@@ -470,6 +470,7 @@ Key stats:
 - 🔌 [**MCP Servers Registry**](https://github.com/modelcontextprotocol/servers) — Official MCP server implementations
 - 🔌 [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) — Community list of 500+ MCP servers
 - 📊 [**AI Coding Agent Benchmarks**](https://github.com/murataslan1/ai-agent-benchmark) — SWE-Bench leaderboard, pricing, real user reviews
+- 🤖 [**n8n AI Workflow Templates**](https://github.com/bonskari/n8n-ai-workflows) — 11 self-hosted AI workflow templates for n8n + Ollama covering blog writing, email automation, social media, lead scoring, and more. No API keys needed.
 - 🤖 [**AI Agentic Frameworks Guide**](https://www.agentically.sh/ai-agentic-frameworks/) — Comprehensive framework comparison
 - 📦 [**Product Hunt: AI Agent Automation**](https://www.producthunt.com/categories/ai-agent-automation) — Latest AI agent launches
 - 🌐 [**Firecrawl Blog**](https://www.firecrawl.dev/blog) — Browser agent guides and web automation news
