@@ -473,6 +473,7 @@ Key stats:
 - 🤖 [**AI Agentic Frameworks Guide**](https://www.agentically.sh/ai-agentic-frameworks/) — Comprehensive framework comparison
 - 📦 [**Product Hunt: AI Agent Automation**](https://www.producthunt.com/categories/ai-agent-automation) — Latest AI agent launches
 - 🌐 [**Firecrawl Blog**](https://www.firecrawl.dev/blog) — Browser agent guides and web automation news
+- 🤖 [**Self-Hosted AI Workflow Pack**](https://bonskari.github.io/n8n-ai-workflows/) — 11 production-ready n8n + Ollama workflow templates for local AI automation, no API keys needed
 
 ---
 
