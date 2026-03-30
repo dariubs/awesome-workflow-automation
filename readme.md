@@ -472,6 +472,7 @@ Key stats:
 - 📊 [**AI Coding Agent Benchmarks**](https://github.com/murataslan1/ai-agent-benchmark) — SWE-Bench leaderboard, pricing, real user reviews
 - 🤖 [**AI Agentic Frameworks Guide**](https://www.agentically.sh/ai-agentic-frameworks/) — Comprehensive framework comparison
 - 📦 [**Product Hunt: AI Agent Automation**](https://www.producthunt.com/categories/ai-agent-automation) — Latest AI agent launches
+- 🧾 [**EnrichAnything Public API**](https://www.enrichanything.com/api/) — Source-backed market scans and report summaries as structured JSON for prospecting and internal automation workflows
 - 🌐 [**Firecrawl Blog**](https://www.firecrawl.dev/blog) — Browser agent guides and web automation news
 
 ---
