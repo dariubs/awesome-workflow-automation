@@ -295,6 +295,8 @@ Key stats:
 
 - **[Kiro (AWS)](https://kiro.dev/)** — AWS's agentic IDE with dual spec-driven and vibe-coding modes. Differentiates through DevOps automation. Launched mid-2025.
 
+- **[Parallel Code](https://github.com/johannesjo/parallel-code)** — Open-source desktop app for orchestrating multiple AI coding agents (Claude Code, Codex CLI, Gemini CLI) simultaneously in isolated git worktrees.
+
 - **[Trae (ByteDance)](https://www.trae.ai/)** — Free VS Code-based IDE with unlimited Claude and GPT-4o access. Builder Mode for automated project generation.
 
 - **[Augment Code](https://www.augmentcode.com/)** — The first AI coding assistant to achieve ISO/IEC 42001 certification for AI management systems.
