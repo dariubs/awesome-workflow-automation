@@ -257,6 +257,8 @@ Key stats:
 
 - **[Playwright MCP](https://github.com/microsoft/playwright-mcp)** ⭐ 10K+ stars — Microsoft's MCP server for AI-controlled browser automation. Uses the accessibility tree (Snapshot Mode) — no screenshots needed, fast and deterministic.
 
+- **[Safari MCP](https://github.com/achiya-automation/safari-mcp)** — Native Safari browser automation for AI agents. 80 tools via AppleScript, zero Chrome overhead, keeps logins. macOS-native MCP server.
+
 - **[Perplexity Comet](https://www.perplexity.ai/comet)** — Consumer AI browser (Chromium-based). Autonomous navigation, form filling, email and calendar management, voice control. Launched July 2025.
 
 ### Browser Infrastructure
