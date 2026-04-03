@@ -118,6 +118,8 @@ Key stats:
 
 - **[Dreamlit AI](https://dreamlit.ai/)** — AI email agent that turns database events into automated email workflows.
 
+- **[Framecraft](https://github.com/vaddisrinivas/framecraft)** — Open-source LLM plugin that automates demo video creation from a single prompt. Orchestrates Playwright, FFmpeg, and Edge TTS MCP servers to produce 1920x1080 videos with voiceover and transitions.
+
 - **[Sintra AI](https://sintra.ai/)** — A team of specialized AI helpers for marketing, customer support, sales, recruiting, and data analysis.
 
 - **[Wordware](https://www.wordware.ai/)** — AI agent builder using natural language. Teams can build and share agents without writing code.
