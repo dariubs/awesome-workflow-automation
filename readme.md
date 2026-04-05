@@ -279,6 +279,8 @@ Key stats:
 
 - **[Claude Code](https://claude.ai/code)** — Anthropic's agentic coding tool. Deep codebase understanding, multi-file edits, terminal integration, and MCP support. Available in VS Code, JetBrains, terminal, and browser. Consistently rated highest for complex reasoning, debugging, and architectural changes.
 
+- **[Kube Foundry](https://github.com/kube-foundry/kube-foundry)** — Kubernetes operator that runs AI coding agents (Claude Code, Codex, Cursor, Gemini, OpenCode) in sandboxed pods.
+
 - **[Cursor](https://cursor.sh/)** — AI-native IDE (VS Code fork). The most broadly adopted AI coding tool among individual developers. Semantic codebase indexing, multi-file agent mode, and inline edits.
 
 - **[GitHub Copilot](https://github.com/features/copilot)** — Microsoft's AI coding assistant. Agent mode, Copilot Workspace for issue-to-PR flows, and the strongest enterprise IP indemnity in the market.
