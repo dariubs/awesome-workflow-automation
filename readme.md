@@ -241,6 +241,10 @@ Key stats:
 
 - **[ZenML](https://github.com/zenml-io/zenml)** — MLOps + LLMOps framework. Manages the production lifecycle of agents — the "outer loop" that LangChain and CrewAI leave unaddressed.
 
+- **[Overloop CLI](https://github.com/sortlist/overloop-cli)** — AI-powered outbound engine. Source contacts from a 450M+ database, run multi-channel campaigns (email + LinkedIn), enroll prospects, and manage conversations. JSON output. `npm install -g overloop-cli`
+
+- **[Signals CLI](https://github.com/sortlist/signals-cli)** — Intent signal monitoring for B2B sales. Track LinkedIn engagement, keyword posters, job changers, and funding events. JSON output. `npm install -g signals-sortlist-cli`
+
 ---
 
 ## 🌐 Browser Automation & Computer Use
