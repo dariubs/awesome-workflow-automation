@@ -349,6 +349,8 @@ Key stats:
 
 - **[Kestra](https://kestra.io/)** — Open-source declarative workflow orchestration. YAML-based, 500+ plugins, cloud-native.
 
+- **[Kitaru](https://github.com/zenml-io/kitaru)** — Durable execution layer for AI agents. Checkpoints, replay, resume, wait, and memory primitives that make agent workflows persistent and replayable — no graph DSL required.
+
 - **[Apache Kafka](https://kafka.apache.org/)** — Distributed event streaming platform. Foundation for real-time data pipelines and event-driven automation.
 
 ---
