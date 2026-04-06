@@ -8,6 +8,7 @@ A curated, comprehensive collection of **workflow automation software**, **AI ag
 
 ---
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 AI agent system prompts for Claude Code workflow automation with N8N integration, task registry, quality gates, and multi-agent orchestration. MIT licensed.
 ## 📚 Table of Contents
 
 - [What is Workflow Automation?](#what-is-workflow-automation)
