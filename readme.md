@@ -94,6 +94,8 @@ Key stats:
 
 - **[Kissflow](https://kissflow.com/)** — Low-code platform with AI natural language workflow creation and predictive workflow optimization.
 
+- **[Appy Pie Automate](https://appypieautomate.ai/)** — No-code workflow automation platform with 1,000+ app integrations. Connect Gmail, Slack, Shopify, HubSpot, Salesforce, and more — without writing code. Trusted by 10M+ users worldwide.
+
 ---
 
 ## 🧠 AI-Powered Automation Platforms
