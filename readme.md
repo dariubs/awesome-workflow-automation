@@ -347,6 +347,8 @@ Key stats:
 
 - **[Dagster](https://dagster.io/)** — Data orchestration built around software-defined assets. Strong observability and testing support.
 
+- **[Dotflow](https://github.com/dotflow-io/dotflow)** — A lightweight Python library for building execution pipelines with retry, parallel execution, cron scheduling, and async support.
+
 - **[Kestra](https://kestra.io/)** — Open-source declarative workflow orchestration. YAML-based, 500+ plugins, cloud-native.
 
 - **[Apache Kafka](https://kafka.apache.org/)** — Distributed event streaming platform. Foundation for real-time data pipelines and event-driven automation.
