@@ -142,6 +142,7 @@ Key stats:
 - **[OpenClaw Workflow Guide](https://www.devshorts.in/p/openclaw-workflow-and-automation)** — Practical workflows: GitHub PR automation, WhatsApp AI digest, cron jobs
 - **[Self-Hosted OpenClaw Setup](https://contabo.com/blog/what-is-openclaw-self-hosted-ai-agent-guide/)** — Full deployment walkthrough
 - **[OpenClaw vs n8n & ChatGPT](https://www.vpsbg.eu/blog/meet-openclaw-a-revolution-in-ai-workflow-automation)** — How it compares to other tools
+- **[RemoteOpenClaw](https://remoteopenclaw.com)** — Open marketplace for discovering, sharing, and selling AI skills and personas built on the OpenClaw standard
 
 ### ☁️ Hosted / No-Code Agent Builders
 
