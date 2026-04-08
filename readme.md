@@ -251,6 +251,8 @@ Key stats:
 
 - **[Browser-Use](https://github.com/browser-use/browser-use)** ⭐ 60K+ stars — Open-source Python library. Makes websites accessible to AI agents using a DOM + Vision hybrid approach. Works with Claude, GPT, Gemini, and local Ollama models. MIT license.
 
+- **[Dassi](https://dassi.ai)** — AI browser agent Chrome extension that automates work in Chrome — clicks, fills forms, navigates pages. BYOK with Claude, GPT, and Gemini. 14-day free trial.
+
 - **[Skyvern](https://github.com/Skyvern-AI/skyvern)** ⭐ 10K+ stars — Vision LLM-based browser automation. Playwright-compatible SDK plus a no-code workflow builder. Best for form fills, logins, downloads, and RPA-style tasks.
 
 - **[Stagehand](https://www.stagehand.dev/)** ⭐ 5K+ stars — AI-native Playwright wrapper. Adds LLM reasoning on top of deterministic Playwright scripting. Built and maintained by Browserbase.
