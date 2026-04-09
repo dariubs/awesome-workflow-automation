@@ -124,6 +124,8 @@ Key stats:
 
 - **[Agent Builder](https://productivity.directory/agent-builder)** — *[Review](https://productivity.directory/agent-builder)* — Build your own custom AI assistants with OpenAI's no-code Agent Builder.
 
+- **[Xquik](https://xquik.com/)** - X (Twitter) automation platform with 40+ REST API endpoints, MCP server for AI agents, HMAC webhooks, and real-time monitoring.
+
 ---
 
 ## 🤖 AI Agent Platforms
