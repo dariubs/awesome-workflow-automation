@@ -330,6 +330,7 @@ Key stats:
 - **Pipedream** — MCP server with 10,000+ tools
 - **Playwright MCP** — Browser automation accessible via MCP
 - **Langflow** — Build and deploy MCP servers visually
+- **[BulkPublish](https://github.com/azeemkafridi/bulkpublish-api/tree/main/mcp-server)** — MCP server for social media publishing across 11 platforms; create posts, schedule, upload media, track analytics
 
 ---
 
