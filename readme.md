@@ -136,6 +136,8 @@ Key stats:
 
 - **[Openwork](https://github.com/accomplish-ai/openwork)** — MIT-licensed open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
 
+- **[lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli)** — Terminal-native LifeOS for managing intentions, habits, and timelogs; provides structured persistent context for agentic workflows.
+
 #### 🦞 Awesome OpenClaw Resources
 
 - **[Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills)** — Community registry of 5,700+ skills for OpenClaw
