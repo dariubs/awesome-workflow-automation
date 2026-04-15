@@ -259,6 +259,8 @@ Key stats:
 
 - **[Perplexity Comet](https://www.perplexity.ai/comet)** — Consumer AI browser (Chromium-based). Autonomous navigation, form filling, email and calendar management, voice control. Launched July 2025.
 
+- **[ShopSavvy Desktop](https://shopsavvy.com/desktop)** — Autonomous shopping agent for Mac, Windows, and Linux. Powered by Claude. Auto-buys at target prices, navigates retailer checkout flows, monitors prices in the background, and calls stores to check stock via voice agent.
+
 ### Browser Infrastructure
 
 > Cloud platforms for running browser agents at scale.
