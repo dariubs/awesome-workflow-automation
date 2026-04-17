@@ -136,6 +136,8 @@ Key stats:
 
 - **[Openwork](https://github.com/accomplish-ai/openwork)** — MIT-licensed open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
 
+- **[AgentsMesh](https://agentsmesh.ai)** — Self-hostable AI Agent Workforce Platform. Provisions remote AI workstations (AgentPods) with PTY sandbox + git worktree isolation per task, coordinates multi-agent collaboration via channels and pod bindings, and manages work through a built-in Kanban with ticket-pod binding and MR/PR integration. Per-pod MCP server lets Claude Code / Cursor drive AgentsMesh. Multi-Git (GitHub/GitLab/Gitee), multi-tenant (Org > Team > User), SSO/RBAC/audit, air-gapped, BYOK. Supports Claude Code, Codex CLI, Gemini CLI, Aider, OpenCode. BSL-1.1 (→ GPL-2.0-or-later on 2030-02-28).
+
 #### 🦞 Awesome OpenClaw Resources
 
 - **[Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills)** — Community registry of 5,700+ skills for OpenClaw
