@@ -317,6 +317,7 @@ Key stats:
 - **[MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)** — Official TypeScript SDK for building MCP servers and clients
 - **[MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)** — Official Python SDK
 - **[Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)** — Community-curated list of 500+ MCP servers
+- **[NotHumanSearch](https://nothumansearch.ai/)** — Agent-first search engine for MCP servers and agent-ready APIs. 8,600+ indexed sites with JSON-RPC verification, a public MCP endpoint at [nothumansearch.ai/mcp](https://nothumansearch.ai/mcp), and a `/score` tool that rates any URL on agent-readiness (llms.txt, OpenAPI, ai-plugin, MCP). Useful for any agent workflow that needs to discover external tools at runtime.
 
 ### Platforms with MCP Support
 
@@ -396,6 +397,7 @@ Key stats:
 - [**The AI Agent Revolution**](https://medium.com/product-powerhouse/the-2026-ai-agent-revolution-7-tools-that-actually-automate-your-work-not-just-chat-13e9f82e3a9b) — Medium
 - [**13 Best AI Agent Builders**](https://www.marketermilk.com/blog/best-ai-agent-platforms) — MarketerMilk
 - [**AI Agentic Frameworks: Complete Guide**](https://www.agentically.sh/ai-agentic-frameworks/)
+- [**8bitconcepts Research**](https://8bitconcepts.com/) — Ongoing enterprise AI research papers on agent governance, multi-agent reliability, RAG evaluation, and production AI patterns. Useful reference material when making design decisions in workflow-automation systems.
 
 ### OpenClaw
 - [**OpenClaw: Self-Hosted AI Agent Guide**](https://contabo.com/blog/what-is-openclaw-self-hosted-ai-agent-guide/) — Contabo
@@ -469,6 +471,8 @@ Key stats:
 - 🦞 [**Awesome OpenClaw Skills**](https://github.com/VoltAgent/awesome-openclaw-skills) — 5,700+ community skills for OpenClaw
 - 🔌 [**MCP Servers Registry**](https://github.com/modelcontextprotocol/servers) — Official MCP server implementations
 - 🔌 [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) — Community list of 500+ MCP servers
+- 🔎 [**NotHumanSearch**](https://nothumansearch.ai/) — Agent-first search engine for MCP servers and agent-ready APIs (8,600+ sites). Public MCP endpoint, `/score` tool for any URL's agent-readiness, weekly discovery pipeline.
+- 💼 [**AI Dev Jobs**](https://aidevboard.com/) — AI/ML job board with a public REST API and an [MCP server](https://aidevboard.com/mcp) (`search_jobs`, `get_job`, `list_companies`, `get_stats`). Useful for recruiting agents, labor-market research, and hiring-signal workflows.
 - 📊 [**AI Coding Agent Benchmarks**](https://github.com/murataslan1/ai-agent-benchmark) — SWE-Bench leaderboard, pricing, real user reviews
 - 🤖 [**AI Agentic Frameworks Guide**](https://www.agentically.sh/ai-agentic-frameworks/) — Comprehensive framework comparison
 - 📦 [**Product Hunt: AI Agent Automation**](https://www.producthunt.com/categories/ai-agent-automation) — Latest AI agent launches
