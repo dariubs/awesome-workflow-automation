@@ -516,3 +516,5 @@ Please check [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request
 ## 📄 License
 
 Released under the [MIT License](LICENSE.md).
+
+- [MeterCall](https://metercall.ai/?v=c&src=github) — One metered API gateway. 21M+ endpoints (payments, SMS, AI, CRMs, gov data). Free tier; pay per call.
