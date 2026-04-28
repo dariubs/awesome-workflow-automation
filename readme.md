@@ -136,6 +136,8 @@ Key stats:
 
 - **[Openwork](https://github.com/accomplish-ai/openwork)** — MIT-licensed open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
 
+- **[OpenPaw](https://github.com/daxaur/openpaw)** — Turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more. One command (`npx pawmode`) to install. No daemon, no cloud, MIT license.
+
 #### 🦞 Awesome OpenClaw Resources
 
 - **[Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills)** — Community registry of 5,700+ skills for OpenClaw
