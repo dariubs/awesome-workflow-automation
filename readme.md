@@ -405,6 +405,8 @@ Key stats:
 - [**OpenClaw: Self-Hosted AI Agent Guide**](https://contabo.com/blog/what-is-openclaw-self-hosted-ai-agent-guide/) — Contabo
 - [**OpenClaw Workflow Automation**](https://www.devshorts.in/p/openclaw-workflow-and-automation) — Dev Shorts
 - [**Meet OpenClaw**](https://www.vpsbg.eu/blog/meet-openclaw-a-revolution-in-ai-workflow-automation) — VPSBG
+- [**Install OpenClaw on VPS: Step-by-Step Guide**](https://install-openclaw.net/blog/install-openclaw-vps/) — install-openclaw.net
+- [**n8n Automation Tutorials & Guides**](https://getmicroservices.com/blog/) — GetMicroservices
 
 ### MCP
 - [**What is MCP?**](https://cloud.google.com/discover/what-is-model-context-protocol) — Google Cloud
