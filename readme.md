@@ -245,6 +245,8 @@ Key stats:
 
 - **[ZenML](https://github.com/zenml-io/zenml)** — MLOps + LLMOps framework. Manages the production lifecycle of agents — the "outer loop" that LangChain and CrewAI leave unaddressed.
 
+- **[Nylas CLI](https://github.com/nylas/cli)** — Email, calendar, and contacts layer for AI agents. Built-in MCP server with 16 tools across Gmail, Outlook, Exchange, Yahoo, iCloud, and IMAP via one auth flow. Gives agents a real inbox and working calendar. Install with `nylas mcp install`. Docs at https://cli.nylas.com.
+
 ---
 
 ## 🌐 Browser Automation & Computer Use
