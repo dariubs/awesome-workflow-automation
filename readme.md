@@ -140,6 +140,8 @@ Key stats:
 
 - **[OpenPaw](https://github.com/daxaur/openpaw)** — Turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more. One command (`npx pawmode`) to install. No daemon, no cloud, MIT license.
 
+- **[Friday](https://hellofriday.ai/)** — Self-hosted AI agent runtime that turns natural-language asks into repeatable, versioned `workspace.yml` workflows. Chat to build, YAML to ship — agents, MCP tools, skills, memory, and signals (HTTP, cron, Slack, email, webhook) wired together. Connects to Slack, Discord, Telegram, WhatsApp, and Teams. Local-first daemon + SvelteKit playground; one-click macOS installer. Source: [friday-platform/friday-studio](https://github.com/friday-platform/friday-studio).
+
 #### 🦞 Awesome OpenClaw Resources
 
 - **[Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills)** — Community registry of 5,700+ skills for OpenClaw
