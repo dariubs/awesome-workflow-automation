@@ -118,6 +118,8 @@ Key stats:
 
 - **[Dreamlit AI](https://dreamlit.ai/)** — AI email agent that turns database events into automated email workflows.
 
+- **[SocialBu](https://socialbu.com/)** — AI-powered social media management and automation platform. Schedule, publish, monitor, and automate across X, Instagram, LinkedIn, Facebook, TikTok, Pinterest, and more. Built-in automation workflows for content scheduling and engagement.
+
 - **[Sintra AI](https://sintra.ai/)** — A team of specialized AI helpers for marketing, customer support, sales, recruiting, and data analysis.
 
 - **[Wordware](https://www.wordware.ai/)** — AI agent builder using natural language. Teams can build and share agents without writing code.
