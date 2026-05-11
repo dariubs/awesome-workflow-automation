@@ -116,6 +116,8 @@ Key stats:
 
 - **[Automateo](https://automateo.app)** — Create LLM-based workflows that produce consistent, structured AI outputs.
 
+- **[AI for Database](https://aifordatabase.com)** — Database-native AI automation platform. Connect to any database, query in plain English, and trigger automated workflows (messages, emails, webhooks) based on real-time database changes. Includes self-refreshing dashboards. No SQL required.
+
 - **[Dreamlit AI](https://dreamlit.ai/)** — AI email agent that turns database events into automated email workflows.
 
 - **[Sintra AI](https://sintra.ai/)** — A team of specialized AI helpers for marketing, customer support, sales, recruiting, and data analysis.
