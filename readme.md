@@ -136,6 +136,8 @@ Key stats:
 
 - **[GhostClaw](https://github.com/b1rdmania/ghostclaw)** — An AI agent that lives on your computer and works for you. Message it on Telegram like a co-worker. Reads email, does research, runs scheduled tasks. Built on Claude Code + Agent SDK. No containers, no cloud. 10 minutes to set up. MIT license.
 
+- **[embercore](https://github.com/embercore-labs/embercore)** — Open-source, plan-first AI marketing planner with named agents, human approval checkpoints, a local Go engine, and a Next.js web app. MCP-native, BYOK, MIT license.
+
 - **[Openwork](https://github.com/accomplish-ai/openwork)** — MIT-licensed open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
 
 - **[OpenPaw](https://github.com/daxaur/openpaw)** — Turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more. One command (`npx pawmode`) to install. No daemon, no cloud, MIT license.
