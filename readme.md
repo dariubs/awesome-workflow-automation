@@ -241,6 +241,8 @@ Key stats:
 
 - **[Agno (Phidata)](https://github.com/agno-agi/agno)** — Framework for building multimodal agents with memory, knowledge, tools, and reasoning.
 
+- **[Agent Automation Kit](https://github.com/yystudio-cyber/agent-automation-kit)** - Portable local task contracts for coding agents with preflight checks, locks, prompts, output contracts, and run logs.
+
 - **[Firecrawl](https://www.firecrawl.dev/)** — Web data layer for AI agents. Search the web, navigate pages, and extract structured data from any website. Used inside OpenClaw and many agent stacks.
 
 - **[ZenML](https://github.com/zenml-io/zenml)** — MLOps + LLMOps framework. Manages the production lifecycle of agents — the "outer loop" that LangChain and CrewAI leave unaddressed.
