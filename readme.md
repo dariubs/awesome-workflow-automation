@@ -163,6 +163,8 @@ Key stats:
 
 - **[Agentforce (Salesforce)](https://www.salesforce.com/agentforce/)** — Salesforce's agentic AI platform. Deploy AI agents directly inside Slack as virtual teammates.
 
+- **[TeamOffsite](https://teamoffsite.ai)** — A no-code orchestration platform for agent teams by [mercury.build](https://mercury.build). Bring your own agents — including Cursor, Claude Code, Devin, and OpenClaw — and manage them with built-in orchestration and governance.
+
 ### 🏢 Enterprise AI Automation
 
 - **[UiPath](https://www.uipath.com/)** — Leading enterprise RPA + AI platform. Combines bots, AI, and process mining at scale.
