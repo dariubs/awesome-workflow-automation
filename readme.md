@@ -151,6 +151,8 @@ Key stats:
 
 - **[Lindy](https://www.lindy.ai/)** — Deploy AI agents for sales, ops, recruiting, and email. Goal-based configuration rather than trigger-action rules. HubSpot, Gmail, Slack, Notion integrations.
 
+- **[EasyClaw](https://easyclaw.com/)** — AI-powered browser automation and workflow agent platform. Automate repetitive web tasks, data extraction, form filling, and multi-step workflows with natural language instructions.
+  
 - **[Gumloop](https://www.gumloop.com/)** — Visual AI-first canvas. Nodes + subflows + templates for common AI automations. 1,000 free credits on signup.
 
 - **[Relay.app](https://www.relay.app/)** — Approvals, human-in-the-loop flows, and a clean UI. Used by teams at Cursor, Ramp, and Motion.
