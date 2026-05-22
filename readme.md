@@ -255,6 +255,8 @@ Key stats:
 
 - **[Browser-Use](https://github.com/browser-use/browser-use)** ⭐ 60K+ stars — Open-source Python library. Makes websites accessible to AI agents using a DOM + Vision hybrid approach. Works with Claude, GPT, Gemini, and local Ollama models. MIT license.
 
+- **[Komos](https://www.komos.ai/)** — AI automation platform for turning browser workflows into reusable tasks with credentials, schedules, logs, human review, document parsing, and API triggers. Built for regulated operations such as background screening, insurance eligibility, and finance workflows.
+
 - **[Skyvern](https://github.com/Skyvern-AI/skyvern)** ⭐ 10K+ stars — Vision LLM-based browser automation. Playwright-compatible SDK plus a no-code workflow builder. Best for form fills, logins, downloads, and RPA-style tasks.
 
 - **[Stagehand](https://www.stagehand.dev/)** ⭐ 5K+ stars — AI-native Playwright wrapper. Adds LLM reasoning on top of deterministic Playwright scripting. Built and maintained by Browserbase.
