@@ -373,6 +373,8 @@ Key stats:
 
 - **[Monday.com](https://monday.com/)** — Work OS with no-code automations, AI-powered features, and 200+ integrations.
 
+- **[Issue AI Agent](https://github.com/alexyan0431/issue-ai-agent)** — Open source GitHub Action that auto-classifies, labels, and replies to issues using AI. Detects duplicates and handles follow-up comments. Supports Claude, OpenAI, and OpenAI-compatible APIs (BYOK). MIT license.
+
 ---
 
 ## 🗺️ Visual Mapping & Diagramming
