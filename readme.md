@@ -287,6 +287,8 @@ Key stats:
 
 - **[GitHub Copilot](https://github.com/features/copilot)** — Microsoft's AI coding assistant. Agent mode, Copilot Workspace for issue-to-PR flows, and the strongest enterprise IP indemnity in the market.
 
+- **[Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril)** — Open-source AI coding orchestrator. Manages Claude Code, Codex, Antigravity, Copilot, and OpenCode through a plan-based lifecycle with verification gates, self-improving memory, and git worktree isolation. Local-first, agent-agnostic. FSL license.
+
 - **[Windsurf](https://codeium.com/windsurf)** — Agentic IDE with Cascade agent and persistent memory across sessions. Acquired by Cognition (makers of Devin) in 2025.
 
 - **[Devin](https://devin.ai/)** — The most autonomous coding agent available. Plans, codes, tests, and deploys in its own cloud sandbox with a shell, editor, and browser. Goldman Sachs uses hundreds of instances internally.
