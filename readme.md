@@ -72,6 +72,8 @@ Key stats:
 
 - **[Automatisch](https://automatisch.io/)** — *[Review](https://productivity.directory/automatisch)* — Open-source self-hosted Zapier alternative.
 
+- **[ductile](https://github.com/mattjoyce/ductile)** — Lightweight, YAML-configured integration gateway and automation runtime with polyglot plugins and event-driven pipelines, exposed through an LLM-first CLI so AI agents can run, debug, and build for it. Open-source (Apache-2.0), Go.
+
 - **[Huginn](https://github.com/huginn/huginn)** — *[Review](https://productivity.directory/huginn)* — Self-hosted agents that monitor the web and automate tasks on your own server.
 
 - **[IFTTT](https://ifttt.com/)** — *[Review](https://productivity.directory/ifttt)* — Simple automation for web services, IoT, and smart devices. 1,000+ integrations.
