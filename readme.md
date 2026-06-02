@@ -94,6 +94,8 @@ Key stats:
 
 - **[Kissflow](https://kissflow.com/)** — Low-code platform with AI natural language workflow creation and predictive workflow optimization.
 
+- **[Creator Lane](https://creatorlanehq.com/)** — Instagram comment-to-DM automation for creators and small brands. Keyword triggers, variant rotation, opt-out handling, tracking links, and a built-in link-in-bio storefront.
+
 ---
 
 ## 🧠 AI-Powered Automation Platforms
