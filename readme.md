@@ -334,6 +334,7 @@ Key stats:
 - **Pipedream** — MCP server with 10,000+ tools
 - **Playwright MCP** — Browser automation accessible via MCP
 - **Langflow** — Build and deploy MCP servers visually
+- **[Moxie Docs](https://moxiedocs.com)** - Index your repo, auto-generate docs, with an MCP for codebase conventions
 
 ---
 
