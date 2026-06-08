@@ -334,6 +334,7 @@ Key stats:
 - **Pipedream** — MCP server with 10,000+ tools
 - **Playwright MCP** — Browser automation accessible via MCP
 - **Langflow** — Build and deploy MCP servers visually
+- **[TWZRD Agent Intel](https://intel.twzrd.xyz)** — MCP server for AI agent wallet trust scoring on Solana. Verify agent identity before x402 micropayments. Free tools: `score_agent(wallet)`, `preflight_check(wallet)`. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 ---
 
