@@ -245,6 +245,8 @@ Key stats:
 
 - **[ZenML](https://github.com/zenml-io/zenml)** — MLOps + LLMOps framework. Manages the production lifecycle of agents — the "outer loop" that LangChain and CrewAI leave unaddressed.
 
+- **[Future AGI](https://github.com/future-agi/future-agi)** — Open-source eval, observability, and guardrails layer for agents. 70+ eval metrics with LLM-as-judge, agent simulation, tracing, and runtime guardrails. Self-hostable.
+
 ---
 
 ## 🌐 Browser Automation & Computer Use
