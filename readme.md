@@ -475,6 +475,7 @@ Key stats:
 - 🔌 [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) — Community list of 500+ MCP servers
 - 📊 [**AI Coding Agent Benchmarks**](https://github.com/murataslan1/ai-agent-benchmark) — SWE-Bench leaderboard, pricing, real user reviews
 - 🤖 [**AI Agentic Frameworks Guide**](https://www.agentically.sh/ai-agentic-frameworks/) — Comprehensive framework comparison
+- 🧑‍💻 [**One Person Company**](https://onepersoncompany.com) — 317 skill guides, an SEO playbook, and AI tool comparisons for solo founders automating their business
 - 📦 [**Product Hunt: AI Agent Automation**](https://www.producthunt.com/categories/ai-agent-automation) — Latest AI agent launches
 - 🌐 [**Firecrawl Blog**](https://www.firecrawl.dev/blog) — Browser agent guides and web automation news
 
