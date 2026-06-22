@@ -387,6 +387,7 @@ Key stats:
 
 ## 📝 Articles & Guides
 
+- [n8n Open Source Guide (FR)](https://zoom-ia.com/automatisation/n8n-guide-complet-automatisation/) - French guide to n8n self-hosting, Docker setup, open-source/fair-code positioning, and Cloud vs self-hosted trade-offs.
 ### Workflow Automation
 - [**Workflow Automation Articles**](https://blog.productivity.directory/tagged/workflow-automation) — The Productivity Blog
 - [**Zapier Automation Basics**](https://zapier.com/blog/how-to-use-zapier/)
