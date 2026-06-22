@@ -388,6 +388,7 @@ Key stats:
 ## 📝 Articles & Guides
 
 ### Workflow Automation
+- [n8n Open Source Guide (FR)](https://zoom-ia.com/automatisation/n8n-guide-complet-automatisation/) - French guide to n8n self-hosting, Docker setup, open-source/fair-code positioning, and Cloud vs self-hosted trade-offs.
 - [**Workflow Automation Articles**](https://blog.productivity.directory/tagged/workflow-automation) — The Productivity Blog
 - [**Zapier Automation Basics**](https://zapier.com/blog/how-to-use-zapier/)
 - [**When to Use RPA vs Workflow Automation**](https://www.uipath.com/blog/rpa-vs-workflow-automation) — UiPath
