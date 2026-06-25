@@ -245,6 +245,8 @@ Key stats:
 
 - **[ZenML](https://github.com/zenml-io/zenml)** — MLOps + LLMOps framework. Manages the production lifecycle of agents — the "outer loop" that LangChain and CrewAI leave unaddressed.
 
+- **[capcut-cli](https://github.com/renezander030/capcut-cli)** — Specialized CLI/library that reads and writes CapCut/JianYing video drafts (JSON in, JSON out, no server); its JSONL queue runner drops into n8n, Make, and Coze so agents can auto-edit videos, caption with Whisper, and cut long-form to shorts in a pipeline.
+
 ---
 
 ## 🌐 Browser Automation & Computer Use
