@@ -244,6 +244,7 @@ Key stats:
 - **[Firecrawl](https://www.firecrawl.dev/)** — Web data layer for AI agents. Search the web, navigate pages, and extract structured data from any website. Used inside OpenClaw and many agent stacks.
 
 - **[ZenML](https://github.com/zenml-io/zenml)** — MLOps + LLMOps framework. Manages the production lifecycle of agents — the "outer loop" that LangChain and CrewAI leave unaddressed.
+- **[Future AGI](https://github.com/future-agi/future-agi)** — Open-source eval, observability, and guardrails layer for agents. 70+ eval metrics with LLM-as-judge, agent simulation, tracing, and runtime guardrails. Self-hostable.
 
 ---
 
