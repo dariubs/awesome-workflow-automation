@@ -140,6 +140,8 @@ Key stats:
 
 - **[OpenPaw](https://github.com/daxaur/openpaw)** — Turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more. One command (`npx pawmode`) to install. No daemon, no cloud, MIT license.
 
+- **[llm-box](https://github.com/alib8b8/llm-box)** — Terminal-based AI workflow engine with YAML-driven pipelines. Supports 20+ LLM providers (DeepSeek, Qwen, GLM, Mistral, Kimi, etc.). Features a TUI for workflow management, local-first execution, and deterministic workflow results. Written in Go, single binary, no dependencies. MIT license.
+
 #### 🦞 Awesome OpenClaw Resources
 
 - **[Awesome OpenClaw Skills](https://github.com/VoltAgent/awesome-openclaw-skills)** — Community registry of 5,700+ skills for OpenClaw
