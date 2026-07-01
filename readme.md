@@ -235,6 +235,8 @@ Key stats:
 
 - **[Sim Studio](https://simstudio.ai/)** — Open-source visual builder for AI agent simulations and workflows.
 
+- **[Workflow Builder](https://github.com/synergycodes/workflowbuilder)** ⭐ 250+ stars - Embeddable, data-driven visual workflow editor SDK for React. Build drag-and-drop editors for AI workflows and automations with custom node types and a plugin system. Ships with a reference backend and a swappable execution engine, proven with Temporal.
+
 ### Specialized Agent Libraries
 
 - **[Mem0](https://github.com/mem0ai/mem0)** — Persistent memory layer for AI agents. Remembers users, preferences, and past interactions across sessions and tools.
