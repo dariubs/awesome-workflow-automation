@@ -181,6 +181,7 @@ Key stats:
 
 ## 🧩 Agent Frameworks & Dev Libraries
 
+- **[llm-box](https://github.com/alib8b8/llm-box)** - Terminal-first AI workflow engine. Orchestrate multi-model LLM pipelines with YAML, Bubble Tea TUI, and 15+ model providers.
 ### Multi-Agent Orchestration
 
 > Code-first frameworks for building systems where multiple AI agents collaborate.
