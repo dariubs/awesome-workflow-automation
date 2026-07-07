@@ -116,6 +116,8 @@ Key stats:
 
 - **[Automateo](https://automateo.app)** — Create LLM-based workflows that produce consistent, structured AI outputs.
 
+- **[LiveContext](https://livecontext.ai/)** — Self-hosted AI automation platform. Describe a job in chat and it builds a workflow you can read, runs it with AI agents that are scoped and budgeted (not a black box), and ships it as a small app for your team. 600+ integrations, human-in-the-loop approvals, and an MCP server. Fair-code, self-hostable with one docker compose up.
+
 - **[Dreamlit AI](https://dreamlit.ai/)** — AI email agent that turns database events into automated email workflows.
 
 - **[Sintra AI](https://sintra.ai/)** — A team of specialized AI helpers for marketing, customer support, sales, recruiting, and data analysis.
