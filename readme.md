@@ -163,6 +163,8 @@ Key stats:
 
 - **[Agentforce (Salesforce)](https://www.salesforce.com/agentforce/)** — Salesforce's agentic AI platform. Deploy AI agents directly inside Slack as virtual teammates.
 
+- **[LLMGraph](https://llmgraph.ai)** — Visual no-code builder for LLM workflows. Build RAG chatbots and AI agents on a drag-and-drop canvas, then deploy to a REST API and chat widget in one click.
+
 ### 🏢 Enterprise AI Automation
 
 - **[UiPath](https://www.uipath.com/)** — Leading enterprise RPA + AI platform. Combines bots, AI, and process mining at scale.
