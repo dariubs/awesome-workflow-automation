@@ -303,6 +303,8 @@ Key stats:
 
 - **[Augment Code](https://www.augmentcode.com/)** — The first AI coding assistant to achieve ISO/IEC 42001 certification for AI management systems.
 
+- **[DevIntern](https://devintern.com/)** — Tool that picks up tickets from Jira, Linear, Trello, Asana, Azure DevOps, GitHub Issues, or markdown files and turns them into self-reviewed pull requests using the coding agent of your choice (Claude Code, Codex, Cursor, OpenCode), on your own machines with your own model keys. Optional unattended mode schedules ticket pickup and turns PR review comments into commits; a feasibility gate flags vague tickets back to the tracker with questions.
+
 ---
 
 ## 🔌 MCP (Model Context Protocol)
