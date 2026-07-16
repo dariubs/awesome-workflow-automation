@@ -104,6 +104,8 @@ Key stats:
 
 - **[Gumloop](https://www.gumloop.com/)** — AI-first no-code workflow canvas. Visual nodes + flows + subflows. Used by teams at Cursor and Ramp.
 
+- **[Heym](https://github.com/heymrun/heym)** — Source-available, self-hosted visual platform for AI workflows with agents, RAG, MCP, human-in-the-loop controls, evals, and tracing.
+
 - **[Relay.app](https://www.relay.app/)** — Simple AI workflow builder with human-in-the-loop approvals. Clean UI, great for non-technical teams.
 
 - **[Latenode](https://latenode.com/)** — Build AI Agents and Integrate with Apps & APIs. 300+ integrations, JavaScript support, visual builder, messenger automation (WhatsApp, Telegram, LinkedIn).
