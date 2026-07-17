@@ -477,7 +477,8 @@ Key stats:
 - 🤖 [**AI Agentic Frameworks Guide**](https://www.agentically.sh/ai-agentic-frameworks/) — Comprehensive framework comparison
 - 📦 [**Product Hunt: AI Agent Automation**](https://www.producthunt.com/categories/ai-agent-automation) — Latest AI agent launches
 - 🌐 [**Firecrawl Blog**](https://www.firecrawl.dev/blog) — Browser agent guides and web automation news
-
+- 📊 [**n8n Server Sizer**](https://n8nsizer.com/?lang=en) — Free calculator for self-hosted n8n server specs (RAM/CPU/disk) with a docker-compose generator
+- 
 ---
 
 ## 💬 Communities
