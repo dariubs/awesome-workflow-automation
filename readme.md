@@ -275,6 +275,8 @@ Key stats:
 
 - **[Hyperbrowser](https://hyperbrowser.ai/)** — AI-native browser platform combining natural language commands with Playwright reliability. YC-backed.
 
+- **[Ceki Browser](https://browser.ceki.me)** — Rent real residential Chrome browsers per minute for AI agents. MCP-native with real DevTools protocol, SDKs for Python/JS/LangChain/CrewAI/n8n, real residential IPs, zero bot detection, crypto payouts.
+
 ---
 
 ## 💻 AI Coding Agents & IDEs
