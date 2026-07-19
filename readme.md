@@ -470,6 +470,7 @@ Key stats:
 - 🔧 [**Productivity Tools Directory**](https://productivity.directory) — Best productivity and automation apps
 - 📰 [**The Productivity Blog**](https://blog.productivity.directory) — Tutorials, reviews, and automation guides
 - ✉️ [**Productivity Newsletter**](https://newsletter.productivity.directory) — Weekly top tools and hacks
+- [ai-automation-templates](https://github.com/H2284AT/ai-automation-templates-) — 350+ free, self-hostable n8n workflow templates for B2B sales automation. CC-BY licensed, GDPR-compliant (Austria/EU).
 - 🦞 [**Awesome OpenClaw Skills**](https://github.com/VoltAgent/awesome-openclaw-skills) — 5,700+ community skills for OpenClaw
 - 🔌 [**MCP Servers Registry**](https://github.com/modelcontextprotocol/servers) — Official MCP server implementations
 - 🔌 [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) — Community list of 500+ MCP servers
