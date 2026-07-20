@@ -157,6 +157,8 @@ Key stats:
 
 - **[Relevance AI](https://relevanceai.com/)** — No-code multi-agent platform. Build, collaborate on, and deploy agent workforces.
 
+- **[Runbear](https://runbear.io/)** — Shared AI teammates in Slack and Microsoft Teams that read connected company context, use tools, and complete cross-tool workflows.
+
 - **[Wordware](https://www.wordware.ai/)** — Natural language agent builder. Teams build and share agents without code.
 
 - **[Stack AI](https://www.stack-ai.com/)** — Visual builder → internal app or API. Templates for support, sales, policy Q&A. Enterprise governance with role-based access and audit history.
