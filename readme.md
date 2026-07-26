@@ -241,6 +241,8 @@ Key stats:
 
 - **[Agno (Phidata)](https://github.com/agno-agi/agno)** — Framework for building multimodal agents with memory, knowledge, tools, and reasoning.
 
+- **[Cohesivity](https://cohesivity.ai/)** — Agent-native backend infrastructure that lets coding agents provision isolated databases, hosting, auth, storage, and AI APIs through one managed API.
+
 - **[Firecrawl](https://www.firecrawl.dev/)** — Web data layer for AI agents. Search the web, navigate pages, and extract structured data from any website. Used inside OpenClaw and many agent stacks.
 
 - **[ZenML](https://github.com/zenml-io/zenml)** — MLOps + LLMOps framework. Manages the production lifecycle of agents — the "outer loop" that LangChain and CrewAI leave unaddressed.
