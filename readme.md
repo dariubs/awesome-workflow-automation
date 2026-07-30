@@ -82,8 +82,6 @@ Key stats:
 
 - **[Tray.io](https://tray.io/)** — *[Review](https://productivity.directory/tray-io)* — Enterprise-grade low-code automation builder with AI orchestration.
 
-- **[Automate.io](https://automate.io/)** — *[Review](https://productivity.directory/automate-io)* — Integrate apps and automate business workflows.
-
 - **[Albato](https://albato.com/)** — No-code automation platform for connecting apps without technical expertise.
 
 - **[Node-RED](https://nodered.org/)** — Low-code event-driven programming for IoT and workflow automation. Open-source, browser-based flow editor.
@@ -123,6 +121,10 @@ Key stats:
 - **[Wordware](https://www.wordware.ai/)** — AI agent builder using natural language. Teams can build and share agents without writing code.
 
 - **[Agent Builder](https://productivity.directory/agent-builder)** — *[Review](https://productivity.directory/agent-builder)* — Build your own custom AI assistants with OpenAI's no-code Agent Builder.
+
+- **[Xquik](https://xquik.com/)** - X automation platform with a REST API, MCP server for AI agents, HMAC webhooks, and real-time monitoring.
+
+  Xquik is an independent third-party service. Not affiliated with X Corp. "Twitter" and "X" are trademarks of X Corp.
 
 ---
 
