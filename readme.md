@@ -36,6 +36,7 @@ A curated, comprehensive collection of **workflow automation software**, **AI ag
 - [💬 Communities](#-communities)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
+- [flow-chart.io](https://flow-chart.io/?utm_source=awesome-workflow-automation&utm_medium=referral&utm_campaign=first_customer&utm_content=directory) — AI diagram generator for workflows, BPMN, swimlane, and process maps. Outputs a fully editable scene graph — every node and connector is a real object you can rename and refine with plain-English prompts. MCP endpoint for AI agent pipelines.
 
 ---
 
