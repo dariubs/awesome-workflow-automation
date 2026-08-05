@@ -467,6 +467,7 @@ Key stats:
 
 ## 📂 Resources & Directories
 
+- **[StackPick](https://trystackpick.com/)** — Pricing-verified automation comparisons and cost calculators (n8n vs Make, WhatsApp API cost, AI voice). Independent, disclosed affiliate links.
 - 🔧 [**Productivity Tools Directory**](https://productivity.directory) — Best productivity and automation apps
 - 📰 [**The Productivity Blog**](https://blog.productivity.directory) — Tutorials, reviews, and automation guides
 - ✉️ [**Productivity Newsletter**](https://newsletter.productivity.directory) — Weekly top tools and hacks
