@@ -93,6 +93,7 @@ Key stats:
 - **[Tallyfy](https://tallyfy.com/)** — *[Review](https://productivity.directory/tallyfy)* — Automate workflows, approvals, and SOPs for teams.
 
 - **[Kissflow](https://kissflow.com/)** — Low-code platform with AI natural language workflow creation and predictive workflow optimization.
+- **[Autoposting](https://autoposting.ai/)** — AI social media automation that writes posts in your voice, clips long video, and schedules across five networks.
 
 ---
 
