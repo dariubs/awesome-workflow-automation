@@ -376,6 +376,7 @@ Key stats:
 ---
 
 ## 🗺️ Visual Mapping & Diagramming
+- [n8n-uptime-ping-alert](https://github.com/DeusAcc/n8n-uptime-ping-alert) - Free n8n workflow that checks a site every 5 minutes and alerts on Telegram only on state change (up/down).
 
 - **[Lucidchart](https://www.lucidchart.com/)** — *[Review](https://productivity.directory/lucidchart)* — Visual workflow mapping, flowcharts, and diagramming. AI-assisted diagram generation.
 
