@@ -501,6 +501,7 @@ Key stats:
 - [**r/ClaudeAI**](https://www.reddit.com/r/ClaudeAI/)
 - [**Cursor Forum**](https://forum.cursor.com/)
 - [**Cline Community**](https://www.reddit.com/r/cline/)
+- [n8n Uptime Ping Alert](https://github.com/DeusAcc/n8n-uptime-ping-alert) - Free n8n workflow that checks a site every 5 minutes and alerts on Telegram only on state change.
 
 ---
 
