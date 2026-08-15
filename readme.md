@@ -102,6 +102,8 @@ Key stats:
 
 - **[Lindy](https://www.lindy.ai/)** — Build AI agents for sales, email, recruiting, and ops — no code. 4,000+ integrations. SOC2 + HIPAA compliant.
 
+- **[Graph Workbench](https://github.com/AngryKarl/graph-workbench)** — Open-source graph-native workbench for governed AI workflows, connecting executable graphs with durable context graphs and installable Industry Packs.
+
 - **[Gumloop](https://www.gumloop.com/)** — AI-first no-code workflow canvas. Visual nodes + flows + subflows. Used by teams at Cursor and Ramp.
 
 - **[Relay.app](https://www.relay.app/)** — Simple AI workflow builder with human-in-the-loop approvals. Clean UI, great for non-technical teams.
