@@ -253,6 +253,8 @@ Key stats:
 
 ### AI Browser Agents
 
+- **[agent-qa](https://github.com/vostride/agent-qa)** ⭐ 768 stars — Self-improving QA agent for natural-language web/mobile regression tests, with persistent execution memory, Playwright/Appium runners, a CLI, MCP, and Agent Skills.
+
 - **[Browser-Use](https://github.com/browser-use/browser-use)** ⭐ 60K+ stars — Open-source Python library. Makes websites accessible to AI agents using a DOM + Vision hybrid approach. Works with Claude, GPT, Gemini, and local Ollama models. MIT license.
 
 - **[Skyvern](https://github.com/Skyvern-AI/skyvern)** ⭐ 10K+ stars — Vision LLM-based browser automation. Playwright-compatible SDK plus a no-code workflow builder. Best for form fills, logins, downloads, and RPA-style tasks.
