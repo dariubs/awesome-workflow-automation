@@ -74,6 +74,8 @@ Key stats:
 
 - **[Huginn](https://github.com/huginn/huginn)** — *[Review](https://productivity.directory/huginn)* — Self-hosted agents that monitor the web and automate tasks on your own server.
 
+- **[Sim](https://sim.ai/)** — Open-source AI agent workflow platform. Visual canvas, 1,000+ integrations, every major model provider, webhook and schedule triggers, RAG knowledge bases, MCP client and server. Apache 2.0 (not fair-code), fully self-hostable. 29,000+ GitHub stars.
+
 - **[IFTTT](https://ifttt.com/)** — *[Review](https://productivity.directory/ifttt)* — Simple automation for web services, IoT, and smart devices. 1,000+ integrations.
 
 - **[Pipedream](https://pipedream.com/)** — *[Review](https://productivity.directory/pipedream)* — Developer-first automation. 2,800+ integrations, MCP server with 10,000+ tools, AI agent builder with natural language support.
@@ -111,6 +113,8 @@ Key stats:
 - **[Taskade](https://www.taskade.com/)** — *[Review](https://productivity.directory/taskade)* — AI-powered workflow automation with custom agents, real-time collaboration, and project management.
 
 - **[Dify](https://dify.ai/)** — Open-source LLM app development platform. Visual drag-and-drop workflow builder, RAG pipeline, knowledge base, multi-trigger support. 58,000+ GitHub stars.
+
+- **[Sim](https://sim.ai/)** — Open-source AI agent workflow platform. Visual canvas, 1,000+ integrations, every major model provider, RAG knowledge bases, MCP support in both directions. Deploy as API, webhook, chat, or MCP server. Apache 2.0, self-hostable. 29,000+ GitHub stars.
 
 - **[Voiceflow](https://www.voiceflow.com/)** — Build, test, and deploy conversational AI agents and voice workflows for any channel.
 
@@ -233,7 +237,7 @@ Key stats:
 
 - **[OpenWebUI](https://github.com/open-webui/open-webui)** ⭐ 50K+ stars — Feature-rich local web interface for LLMs (Ollama, OpenAI-compatible). Agent and workflow support.
 
-- **[Sim Studio](https://simstudio.ai/)** — Open-source visual builder for AI agent simulations and workflows.
+- **[Sim](https://github.com/simstudioai/sim)** ⭐ 29K+ stars — Open-source AI agent workflow platform. Visual canvas, 1,000+ integrations, RAG knowledge bases, MCP client and server. Apache 2.0, self-hostable.
 
 ### Specialized Agent Libraries
 
@@ -334,6 +338,7 @@ Key stats:
 - **Pipedream** — MCP server with 10,000+ tools
 - **Playwright MCP** — Browser automation accessible via MCP
 - **Langflow** — Build and deploy MCP servers visually
+- **Sim** — MCP client and server; import MCP servers as agent tools, or deploy workflows as an MCP server
 
 ---
 
@@ -452,6 +457,7 @@ Key stats:
 - [**AutoGen Documentation**](https://microsoft.github.io/autogen/)
 - [**Dify Documentation**](https://docs.dify.ai/)
 - [**OpenAI Agents SDK Quickstart**](https://openai.github.io/openai-agents-python/quickstart/)
+- [**Sim Documentation**](https://docs.sim.ai/)
 
 ### Browser Automation
 - [**Browser-Use Documentation**](https://browser-use.com/)
