@@ -275,6 +275,8 @@ Key stats:
 
 - **[Hyperbrowser](https://hyperbrowser.ai/)** — AI-native browser platform combining natural language commands with Playwright reliability. YC-backed.
 
+- **[CapMonster Cloud](https://capmonster.cloud/)** — Cloud-based CAPTCHA solving API and open-source SDKs for browser agents and automation pipelines. Resolves reCAPTCHA, hCaptcha, and Cloudflare Turnstile inside Playwright, Puppeteer, and Selenium workflows.
+
 ---
 
 ## 💻 AI Coding Agents & IDEs
