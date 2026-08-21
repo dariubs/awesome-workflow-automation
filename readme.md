@@ -100,6 +100,7 @@ Key stats:
 
 > Platforms that go beyond simple triggers — using AI to decide, generate, and adapt within automation flows.
 
+- **[LeadBot 24h](https://planificador7.gumroad.com/l/leadbot-24h)** — n8n-based AI workflow that captures and qualifies WhatsApp leads 24/7 without paid APIs. Self-hosted, no-code, production-ready.
 - **[Lindy](https://www.lindy.ai/)** — Build AI agents for sales, email, recruiting, and ops — no code. 4,000+ integrations. SOC2 + HIPAA compliant.
 
 - **[Gumloop](https://www.gumloop.com/)** — AI-first no-code workflow canvas. Visual nodes + flows + subflows. Used by teams at Cursor and Ramp.
