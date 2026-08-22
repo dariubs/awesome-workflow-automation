@@ -466,6 +466,7 @@ Key stats:
 ---
 
 ## 📂 Resources & Directories
+- [FoxData DevRel Content Hub](https://github.com/benzhang568858050-cell/App-data-IOS-GP-): Self-hosted developer content automation — app market data to Dev.to publishing via GitHub Actions, with an AI ops engine (monitoring, engagement analysis, auto-revive) and SEO/GEO-optimized pipeline
 
 - 🔧 [**Productivity Tools Directory**](https://productivity.directory) — Best productivity and automation apps
 - 📰 [**The Productivity Blog**](https://blog.productivity.directory) — Tutorials, reviews, and automation guides
