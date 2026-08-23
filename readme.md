@@ -334,6 +334,7 @@ Key stats:
 - **Pipedream** — MCP server with 10,000+ tools
 - **Playwright MCP** — Browser automation accessible via MCP
 - **Langflow** — Build and deploy MCP servers visually
+- **PostWire** — MCP server for publishing: one tool call posts to TikTok, Instagram, YouTube, LinkedIn, X, Bluesky, Mastodon, Telegram and Discord ([postwire.io](https://postwire.io))
 
 ---
 
