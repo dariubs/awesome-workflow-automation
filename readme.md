@@ -353,6 +353,8 @@ Key stats:
 
 - **[Kestra](https://kestra.io/)** — Open-source declarative workflow orchestration. YAML-based, 500+ plugins, cloud-native.
 
+- **[Orch8](https://orch8.io/)** — Self-hosted durable workflow engine written in Rust. Runs declarative long-running workflows with persistent execution, retries, checkpoints, rate limits, and human approvals.
+
 - **[Apache Kafka](https://kafka.apache.org/)** — Distributed event streaming platform. Foundation for real-time data pipelines and event-driven automation.
 
 ---
