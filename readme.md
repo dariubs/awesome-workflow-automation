@@ -185,7 +185,7 @@ Key stats:
 
 > Code-first frameworks for building systems where multiple AI agents collaborate.
 
-- **[Bernstein](https://github.com/sipyourdrink-ltd/bernstein)** — Deterministic Python orchestrator for CLI coding agents. Coordinates 40+ agents (Claude Code, Codex CLI, Gemini CLI, OpenHands, Aider, Amp, Goose, and more) running in parallel git worktrees. File-based state, MCP server, quality gates, cost tracking with budgets. Apache 2.0.
+- **[Bernstein](https://github.com/sipyourdrink-ltd/bernstein)** — Open-source governance layer for AI agents, built on a deterministic Python scheduler. Coordinates 40+ agents (Claude Code, Codex CLI, Gemini CLI, OpenHands, Aider, Amp, Goose, and more) running in parallel git worktrees. File-based state, MCP server, quality gates, cost tracking with budgets. Apache 2.0.
 
 - **[CrewAI](https://github.com/crewAIInc/crewAI)** ⭐ 32K+ stars — Role-based multi-agent framework. Agents collaborate like a team, each with a defined role. Minimal setup, works without LangChain. Popular for customer service and marketing automation.
 
