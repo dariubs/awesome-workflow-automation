@@ -118,6 +118,8 @@ Key stats:
 
 - **[Dreamlit AI](https://dreamlit.ai/)** — AI email agent that turns database events into automated email workflows.
 
+- **[Drevon](https://drevon.dev)** — Console for GTM engineers where AI agents automate prospecting, signal tracking, account research, and inbound qualification, replacing the manual research work GTM teams do by hand. Ships with a native browser using your own LinkedIn, Sales Nav, and X logins, connects the rest of your GTM stack over MCP, and works for individuals, teams, or self-hosted enterprise deployments.
+
 - **[Sintra AI](https://sintra.ai/)** — A team of specialized AI helpers for marketing, customer support, sales, recruiting, and data analysis.
 
 - **[Wordware](https://www.wordware.ai/)** — AI agent builder using natural language. Teams can build and share agents without writing code.
