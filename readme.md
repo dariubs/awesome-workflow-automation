@@ -388,12 +388,13 @@ Key stats:
 ## 📝 Articles & Guides
 
 ### Workflow Automation
-- [**Workflow Automation Articles**](https://blog.productivity.directory/tagged/workflow-automation) — The Productivity Blog
-- [**Zapier Automation Basics**](https://zapier.com/blog/how-to-use-zapier/)
-- [**When to Use RPA vs Workflow Automation**](https://www.uipath.com/blog/rpa-vs-workflow-automation) — UiPath
+- [**10 Best AI Automation Platforms**](https://www.lindy.ai/blog/ai-automation-platform) — Lindy
 - [**7 AI Workflow Automation Trends**](https://kissflow.com/workflow/7-workflow-automation-trends-every-it-leader-must-watch-in-2025/) — Kissflow
 - [**Best AI Workflow Automation Tools**](https://blog.n8n.io/best-ai-workflow-automation-tools/) — n8n Blog
-- [**10 Best AI Automation Platforms**](https://www.lindy.ai/blog/ai-automation-platform) — Lindy
+- [**TPPC Workflow Scoping Worksheet**](https://thepromptpowercode.com/resources/workflow-scoping-checklist?utm_source=awesome_workflow_automation&utm_medium=community_resource&utm_campaign=workflow_scope_resources_v1&utm_content=scoping_worksheet) - Free planning guide and editable worksheet for inputs, approvals, scope exclusions, manual fallback, and proposed acceptance checks.
+- [**When to Use RPA vs Workflow Automation**](https://www.uipath.com/blog/rpa-vs-workflow-automation) — UiPath
+- [**Workflow Automation Articles**](https://blog.productivity.directory/tagged/workflow-automation) — The Productivity Blog
+- [**Zapier Automation Basics**](https://zapier.com/blog/how-to-use-zapier/)
 
 ### AI Agents
 - [**Best AI Agents**](https://www.datacamp.com/blog/best-ai-agents) — DataCamp
