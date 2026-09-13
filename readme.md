@@ -253,6 +253,8 @@ Key stats:
 
 ### AI Browser Agents
 
+- **[AIHawk](https://github.com/feder-cr/AIHawk)** ⭐ 30K+ stars - Open-source AI browser agent that browses, clicks, types and reads real web pages from plain-English instructions. Runs locally on a patched Firefox engine and ships as an MCP server for Claude Code, Codex and Gemini CLI, plus a standalone web UI. MIT license.
+
 - **[Browser-Use](https://github.com/browser-use/browser-use)** ⭐ 60K+ stars — Open-source Python library. Makes websites accessible to AI agents using a DOM + Vision hybrid approach. Works with Claude, GPT, Gemini, and local Ollama models. MIT license.
 
 - **[Skyvern](https://github.com/Skyvern-AI/skyvern)** ⭐ 10K+ stars — Vision LLM-based browser automation. Playwright-compatible SDK plus a no-code workflow builder. Best for form fills, logins, downloads, and RPA-style tasks.
