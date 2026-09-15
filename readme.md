@@ -245,6 +245,8 @@ Key stats:
 
 - **[ZenML](https://github.com/zenml-io/zenml)** — MLOps + LLMOps framework. Manages the production lifecycle of agents — the "outer loop" that LangChain and CrewAI leave unaddressed.
 
+- **[Webcmd](https://github.com/agentrhq/webcmd)** — Browser automation layer for AI agents. Learns how a site is navigated once, then compiles it into deterministic per-site CLI commands that agents reuse across runs.
+
 ---
 
 ## 🌐 Browser Automation & Computer Use
