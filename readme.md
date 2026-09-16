@@ -355,6 +355,8 @@ Key stats:
 
 - **[Apache Kafka](https://kafka.apache.org/)** — Distributed event streaming platform. Foundation for real-time data pipelines and event-driven automation.
 
+- **[NodePilot](https://github.com/Sev7eNup/NodePilot)** — Open-source, agentless workflow orchestration for Windows. Visual designer, PowerShell over WinRM, step debugger, imports System Center Orchestrator runbooks.
+
 ---
 
 ## 📋 Project Management with Automation
