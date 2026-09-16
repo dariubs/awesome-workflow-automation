@@ -255,6 +255,8 @@ Key stats:
 
 - **[Browser-Use](https://github.com/browser-use/browser-use)** ⭐ 60K+ stars — Open-source Python library. Makes websites accessible to AI agents using a DOM + Vision hybrid approach. Works with Claude, GPT, Gemini, and local Ollama models. MIT license.
 
+- **[Keel](https://github.com/KeelDev-tech/keel)** — Open-core (Apache-2.0) job-application autopilot: an AI browser agent that discovers matching roles, tailors resumes truthfully, and only ever claims what you told it is true — truthfulness gates, explicit confirmation, fail closed. Self-hosted; human approval at every step.
+
 - **[Skyvern](https://github.com/Skyvern-AI/skyvern)** ⭐ 10K+ stars — Vision LLM-based browser automation. Playwright-compatible SDK plus a no-code workflow builder. Best for form fills, logins, downloads, and RPA-style tasks.
 
 - **[Stagehand](https://www.stagehand.dev/)** ⭐ 5K+ stars — AI-native Playwright wrapper. Adds LLM reasoning on top of deterministic Playwright scripting. Built and maintained by Browserbase.
