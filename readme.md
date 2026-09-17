@@ -331,6 +331,7 @@ Key stats:
 - **Make** — MCP server option
 - **Cursor** — MCP client
 - **Claude Code** — MCP client; extend coding workflows with external services
+- [Hronaut](https://github.com/hronaut/hronaut) - Source-available local browser workspace for MCP-driven workflows, with persistent tabs and storage, visible pause and manual takeover; paid after a 10-day trial.
 - **Pipedream** — MCP server with 10,000+ tools
 - **Playwright MCP** — Browser automation accessible via MCP
 - **Langflow** — Build and deploy MCP servers visually
