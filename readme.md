@@ -488,6 +488,7 @@ Key stats:
 - [**n8n Community Forum**](https://community.n8n.io)
 - [**Makerpad**](https://www.makerpad.co/)
 - [**Automators Forum**](https://talk.automators.fm/)
+- [FeeGuard](https://feeguard.dev) - Checks Stripe Connect refunds and disputes for unreversed transfers, unadjusted application fees, and uncovered platform losses.
 
 ### AI Agents
 - [**r/AIAgents**](https://www.reddit.com/r/AIAgents/)
