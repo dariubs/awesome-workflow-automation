@@ -162,7 +162,7 @@ Key stats:
 - **[Stack AI](https://www.stack-ai.com/)** — Visual builder → internal app or API. Templates for support, sales, policy Q&A. Enterprise governance with role-based access and audit history.
 
 - **[Agentforce (Salesforce)](https://www.salesforce.com/agentforce/)** — Salesforce's agentic AI platform. Deploy AI agents directly inside Slack as virtual teammates.
-- **[Hellomatik](https://hellomatik.com)** — AI agent platform that turns company knowledge into agents that answer, sell and book across WhatsApp, email and web.
+- **[Hellomatik](https://hellomatik.com)** — AI agents that prepare a company's decisions from one blueprint of its data, procedures and formulas, for an approver to accept, amend or reject.
 
 ### 🏢 Enterprise AI Automation
 
