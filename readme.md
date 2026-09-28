@@ -389,6 +389,7 @@ Key stats:
 
 ### Workflow Automation
 - [**Workflow Automation Articles**](https://blog.productivity.directory/tagged/workflow-automation) — The Productivity Blog
+- [**YouTube Transcripts in n8n: HTTP Request Workflow Guide**](https://getyoutubetranscript.com/blog/n8n-youtube-transcript-workflow) — GetYouTubeTranscript
 - [**Zapier Automation Basics**](https://zapier.com/blog/how-to-use-zapier/)
 - [**When to Use RPA vs Workflow Automation**](https://www.uipath.com/blog/rpa-vs-workflow-automation) — UiPath
 - [**7 AI Workflow Automation Trends**](https://kissflow.com/workflow/7-workflow-automation-trends-every-it-leader-must-watch-in-2025/) — Kissflow
