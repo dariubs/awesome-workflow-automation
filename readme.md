@@ -359,19 +359,21 @@ Key stats:
 
 ## 📋 Project Management with Automation
 
-- **[ClickUp](https://clickup.com/)** — *[Review](https://productivity.directory/clickup)* — All-in-one project management with powerful automations and AI features.
+- **[Airtable](https://airtable.com/)** — *[Review](https://productivity.directory/airtable)* — Spreadsheet-database hybrid with automated workflows and AI features.
 
 - **[Asana](https://asana.com/)** — Project management with a no-code AI agent builder for automating workflow stages from intake to reporting.
 
-- **[Airtable](https://airtable.com/)** — *[Review](https://productivity.directory/airtable)* — Spreadsheet-database hybrid with automated workflows and AI features.
+- **[ClickUp](https://clickup.com/)** — *[Review](https://productivity.directory/clickup)* — All-in-one project management with powerful automations and AI features.
 
-- **[Smartsheet](https://www.smartsheet.com/)** — *[Review](https://productivity.directory/smartsheet)* — Collaborative work management with automation, AI-assisted formulas, and integrations.
-
-- **[Wrike](https://www.wrike.com/)** — *[Review](https://productivity.directory/wrike)* — Project management with customizable workflow automation and an AI work assistant.
+- **[Monday.com](https://monday.com/)** — Work OS with no-code automations, AI-powered features, and 200+ integrations.
 
 - **[Notion](https://www.notion.so/)** — All-in-one workspace with AI writing assistant and workflow automation via integrations.
 
-- **[Monday.com](https://monday.com/)** — Work OS with no-code automations, AI-powered features, and 200+ integrations.
+- **[Smartsheet](https://www.smartsheet.com/)** — *[Review](https://productivity.directory/smartsheet)* — Collaborative work management with automation, AI-assisted formulas, and integrations.
+
+- [Tale](https://tale.dev) - Open-source project workspace with shared tasks, manager-agent delegation, persistent sandboxes, and human review of reports and delivered files.
+
+- **[Wrike](https://www.wrike.com/)** — *[Review](https://productivity.directory/wrike)* — Project management with customizable workflow automation and an AI work assistant.
 
 ---
 
