@@ -163,6 +163,8 @@ Key stats:
 
 - **[Agentforce (Salesforce)](https://www.salesforce.com/agentforce/)** — Salesforce's agentic AI platform. Deploy AI agents directly inside Slack as virtual teammates.
 
+- **[Syl](https://www.usesyl.com)** — Build a team of AI teammates that hand work to each other in shared conversations and run routines on a schedule. Plain-language setup, memory, on-demand computer, MCP tool connections.
+
 ### 🏢 Enterprise AI Automation
 
 - **[UiPath](https://www.uipath.com/)** — Leading enterprise RPA + AI platform. Combines bots, AI, and process mining at scale.
