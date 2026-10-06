@@ -303,6 +303,8 @@ Key stats:
 
 - **[Augment Code](https://www.augmentcode.com/)** — The first AI coding assistant to achieve ISO/IEC 42001 certification for AI management systems.
 
+- **[task-automator](https://github.com/Gautham-AI-dev/task-automator)** — Open-source batch runner for headless AI coding agents (opencode). Crash-safe resume, artifact-verified completion, per-attempt cost ledger with budget caps, stall watchdog, and an optional DBOS + Postgres durable layer with human-approval gates. Stdlib-only core, MIT license.
+
 ---
 
 ## 🔌 MCP (Model Context Protocol)
