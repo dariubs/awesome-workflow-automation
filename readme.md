@@ -118,6 +118,8 @@ Key stats:
 
 - **[Dreamlit AI](https://dreamlit.ai/)** — AI email agent that turns database events into automated email workflows.
 
+- **[Flowra](https://flowra.dev/)** — Describe a job in one sentence and get a hosted AI agent or a locked workflow. Connects your apps via OAuth, pauses tools marked sensitive until someone approves or rejects them on a review card, and logs every step in a run ledger.
+
 - **[Sintra AI](https://sintra.ai/)** — A team of specialized AI helpers for marketing, customer support, sales, recruiting, and data analysis.
 
 - **[Wordware](https://www.wordware.ai/)** — AI agent builder using natural language. Teams can build and share agents without writing code.
