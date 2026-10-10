@@ -477,6 +477,7 @@ Key stats:
 - 🤖 [**AI Agentic Frameworks Guide**](https://www.agentically.sh/ai-agentic-frameworks/) — Comprehensive framework comparison
 - 📦 [**Product Hunt: AI Agent Automation**](https://www.producthunt.com/categories/ai-agent-automation) — Latest AI agent launches
 - 🌐 [**Firecrawl Blog**](https://www.firecrawl.dev/blog) — Browser agent guides and web automation news
+- 🧩 [**Bowhard n8n Workflow Templates**](https://github.com/VavilkinAlex/n8n-bowhard-templates) — 11 free MIT-licensed n8n workflows for speech-to-text, text-to-speech, Yandex Disk, Yandex Calendar, and contacts
 
 ---
 
