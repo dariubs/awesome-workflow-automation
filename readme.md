@@ -477,6 +477,7 @@ Key stats:
 - 🤖 [**AI Agentic Frameworks Guide**](https://www.agentically.sh/ai-agentic-frameworks/) — Comprehensive framework comparison
 - 📦 [**Product Hunt: AI Agent Automation**](https://www.producthunt.com/categories/ai-agent-automation) — Latest AI agent launches
 - 🌐 [**Firecrawl Blog**](https://www.firecrawl.dev/blog) — Browser agent guides and web automation news
+- 🦁 [**Roar Workflows**](https://roarworkflows.com) — Free directory of AI agent workflows organized by job (sales, support, ops, finance)
 
 ---
 
