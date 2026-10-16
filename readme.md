@@ -15,7 +15,7 @@ A curated, comprehensive collection of **workflow automation software**, **AI ag
 - [🧠 AI-Powered Automation Platforms](#-ai-powered-automation-platforms)
 - [🤖 AI Agent Platforms](#-ai-agent-platforms)
   - [Self-Hosted & Local AI Agents](#-self-hosted--local-ai-agents)
-  - [Hosted / No-Code Agent Builders](#-hosted--no-code-agent-builders)
+  - [Hosted / No-Code Agent Builders](#%EF%B8%8F-hosted--no-code-agent-builders)
   - [Enterprise AI Automation](#-enterprise-ai-automation)
 - [🧩 Agent Frameworks & Dev Libraries](#-agent-frameworks--dev-libraries)
   - [Multi-Agent Orchestration](#multi-agent-orchestration)
@@ -28,7 +28,7 @@ A curated, comprehensive collection of **workflow automation software**, **AI ag
 - [🔌 MCP (Model Context Protocol)](#-mcp-model-context-protocol)
 - [📊 Data Pipeline & Workflow Orchestration](#-data-pipeline--workflow-orchestration)
 - [📋 Project Management with Automation](#-project-management-with-automation)
-- [🗺️ Visual Mapping & Diagramming](#-visual-mapping--diagramming)
+- [🗺️ Visual Mapping & Diagramming](#%EF%B8%8F-visual-mapping--diagramming)
 - [📝 Articles & Guides](#-articles--guides)
 - [📘 Books](#-books)
 - [🎥 Video Tutorials & Courses](#-video-tutorials--courses)
@@ -104,7 +104,7 @@ Key stats:
 
 - **[Gumloop](https://www.gumloop.com/)** — AI-first no-code workflow canvas. Visual nodes + flows + subflows. Used by teams at Cursor and Ramp.
 
-- **[Relay.app](https://www.relay.app/)** — Simple AI workflow builder with human-in-the-loop approvals. Clean UI, great for non-technical teams.
+- **[Relay.app](https://www.relay.app/)** — Former AI workflow builder with human-in-the-loop approvals. Shut down in September 2026; retained for historical reference.
 
 - **[Latenode](https://latenode.com/)** — Build AI Agents and Integrate with Apps & APIs. 300+ integrations, JavaScript support, visual builder, messenger automation (WhatsApp, Telegram, LinkedIn).
 
@@ -153,7 +153,7 @@ Key stats:
 
 - **[Gumloop](https://www.gumloop.com/)** — Visual AI-first canvas. Nodes + subflows + templates for common AI automations. 1,000 free credits on signup.
 
-- **[Relay.app](https://www.relay.app/)** — Approvals, human-in-the-loop flows, and a clean UI. Used by teams at Cursor, Ramp, and Motion.
+- **[Relay.app](https://www.relay.app/)** — Former hosted AI workflow builder with human-in-the-loop approvals. Shut down in September 2026; retained for historical reference.
 
 - **[Relevance AI](https://relevanceai.com/)** — No-code multi-agent platform. Build, collaborate on, and deploy agent workforces.
 
@@ -519,4 +519,4 @@ Please check [CONTRIBUTING.md](CONTRIBUTING.md) before submitting a pull request
 
 ## 📄 License
 
-Released under the [MIT License](LICENSE.md).
+Released under the [MIT License](license.md).
