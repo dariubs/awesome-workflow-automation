@@ -477,6 +477,7 @@ Key stats:
 - 🤖 [**AI Agentic Frameworks Guide**](https://www.agentically.sh/ai-agentic-frameworks/) — Comprehensive framework comparison
 - 📦 [**Product Hunt: AI Agent Automation**](https://www.producthunt.com/categories/ai-agent-automation) — Latest AI agent launches
 - 🌐 [**Firecrawl Blog**](https://www.firecrawl.dev/blog) — Browser agent guides and web automation news
+- 🤖 [**Awesome AI Agents**](https://github.com/ianwieds/awesome-ai-agents) — Curated list of agent frameworks, coding agents, browser agents, tools and platforms
 
 ---
 
