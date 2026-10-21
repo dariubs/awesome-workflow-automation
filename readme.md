@@ -253,7 +253,7 @@ Key stats:
 
 ### AI Browser Agents
 
-- **[Browser-Use](https://github.com/browser-use/browser-use)** ⭐ 60K+ stars — Open-source Python library. Makes websites accessible to AI agents using a DOM + Vision hybrid approach. Works with Claude, GPT, Gemini, and local Ollama models. MIT license.
+- **[Browser-Use](https://github.com/browser-use/browser-use)** ⭐ 118K+ stars — Open-source Python library. Makes websites accessible to AI agents using a DOM + Vision hybrid approach. Works with Claude, GPT, Gemini, and local Ollama models. MIT license.
 
 - **[Skyvern](https://github.com/Skyvern-AI/skyvern)** ⭐ 10K+ stars — Vision LLM-based browser automation. Playwright-compatible SDK plus a no-code workflow builder. Best for form fills, logins, downloads, and RPA-style tasks.
 
@@ -266,6 +266,8 @@ Key stats:
 ### Browser Infrastructure
 
 > Cloud platforms for running browser agents at scale.
+
+- **[Browser Use Cloud](https://browser-use.com/)** — Hosted stealth Chromium for AI agents, driven over CDP from Playwright, Puppeteer or the Browser-Use library. Residential proxies in 195+ countries, CAPTCHA solving, persistent profiles, live view and recordings, plus an agent API and a hosted MCP server. $0.02 per browser-hour, no subscription.
 
 - **[Browserbase](https://www.browserbase.com/)** — Gold standard browser infrastructure for AI agents. Persistent sessions, stealth mode, session recordings, Playwright and Puppeteer compatible. Raised $40M Series B at $300M valuation (June 2025). Processed 50M+ sessions in 2025.
 
