@@ -477,6 +477,7 @@ Key stats:
 - 🤖 [**AI Agentic Frameworks Guide**](https://www.agentically.sh/ai-agentic-frameworks/) — Comprehensive framework comparison
 - 📦 [**Product Hunt: AI Agent Automation**](https://www.producthunt.com/categories/ai-agent-automation) — Latest AI agent launches
 - 🌐 [**Firecrawl Blog**](https://www.firecrawl.dev/blog) — Browser agent guides and web automation news
+- 🧩 [**FlowKit — Free n8n Workflow Library**](https://github.com/mrnpvn/flowkit) — Open-source, production-ready n8n workflows for small businesses (advisory, clinic, real estate): client onboarding, tax-deadline reminders, appointment confirm/cancel links and lead scoring. Setup guides in English and Spanish.
 
 ---
 
