@@ -326,6 +326,7 @@ Key stats:
 
 - **Claude / Claude.ai** — MCP client; connect any MCP server to Claude
 - **OpenClaw** — MCP via the skills and tools ecosystem
+- [Screenpipe](https://screenpipe.com/) - Search locally captured screen and audio history through MCP to give AI assistants context for recurring work. Source-available under the Screenpipe Commercial License; configured cloud services and connected clients can send context off-device.
 - **Zapier** — MCP server; call Zaps from any AI agent
 - **n8n** — MCP server support built in
 - **Make** — MCP server option
