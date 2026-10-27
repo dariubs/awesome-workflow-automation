@@ -118,6 +118,8 @@ Key stats:
 
 - **[Dreamlit AI](https://dreamlit.ai/)** — AI email agent that turns database events into automated email workflows.
 
+- **[LazyMind](https://github.com/LazyAGI/LazyMind)** — Open-source AI Skill Runtime for reusable knowledge and Skills, observable workflows, human review checkpoints, and editable artifacts. Runs as a desktop app or self-hosted service.
+
 - **[Sintra AI](https://sintra.ai/)** — A team of specialized AI helpers for marketing, customer support, sales, recruiting, and data analysis.
 
 - **[Wordware](https://www.wordware.ai/)** — AI agent builder using natural language. Teams can build and share agents without writing code.
