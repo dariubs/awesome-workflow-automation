@@ -297,6 +297,8 @@ Key stats:
 
 - **[Amazon Q Developer](https://aws.amazon.com/q/developer/)** — AWS-native AI coding assistant. Deep AWS integration, security scanning, and code transformation features.
 
+- **[AppWizzy](https://appwizzy.com/)** — AI web app builder that creates and edits applications in dedicated cloud development VMs, with runtime templates and Git-backed source editing.
+
 - **[Kiro (AWS)](https://kiro.dev/)** — AWS's agentic IDE with dual spec-driven and vibe-coding modes. Differentiates through DevOps automation. Launched mid-2025.
 
 - **[Trae (ByteDance)](https://www.trae.ai/)** — Free VS Code-based IDE with unlimited Claude and GPT-4o access. Builder Mode for automated project generation.
