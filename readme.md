@@ -163,6 +163,8 @@ Key stats:
 
 - **[Agentforce (Salesforce)](https://www.salesforce.com/agentforce/)** — Salesforce's agentic AI platform. Deploy AI agents directly inside Slack as virtual teammates.
 
+- **[Agentivity](https://www.agentivity.io/)** — Teams of AI agents inside workflows: each agent has its own role, information and tools, AI steps sit next to fixed steps that follow your own rules, and a person can approve before anything goes out. Hosted plans, or a free self-hosted Community edition with Docker.
+
 ### 🏢 Enterprise AI Automation
 
 - **[UiPath](https://www.uipath.com/)** — Leading enterprise RPA + AI platform. Combines bots, AI, and process mining at scale.
