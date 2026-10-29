@@ -394,6 +394,7 @@ Key stats:
 - [**7 AI Workflow Automation Trends**](https://kissflow.com/workflow/7-workflow-automation-trends-every-it-leader-must-watch-in-2025/) — Kissflow
 - [**Best AI Workflow Automation Tools**](https://blog.n8n.io/best-ai-workflow-automation-tools/) — n8n Blog
 - [**10 Best AI Automation Platforms**](https://www.lindy.ai/blog/ai-automation-platform) — Lindy
+- [**AI Workflow Automation Cost Guide**](https://srishtigenai.com/ai-workflow-automation-cost) — Srishti GenAI
 
 ### AI Agents
 - [**Best AI Agents**](https://www.datacamp.com/blog/best-ai-agents) — DataCamp
