@@ -275,6 +275,8 @@ Key stats:
 
 - **[Hyperbrowser](https://hyperbrowser.ai/)** — AI-native browser platform combining natural language commands with Playwright reliability. YC-backed.
 
+- **[CurlShot](https://curlshot.com/)** — Screenshot API for workflows and agents. Turns a URL, HTML or Markdown into a PNG, JPEG, WebP, PDF or scrolling video in one HTTP request. Includes an MCP server and an n8n community node. Free tier: 100 screenshots/month.
+
 ---
 
 ## 💻 AI Coding Agents & IDEs
