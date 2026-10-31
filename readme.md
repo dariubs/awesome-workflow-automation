@@ -354,6 +354,7 @@ Key stats:
 - **[Kestra](https://kestra.io/)** — Open-source declarative workflow orchestration. YAML-based, 500+ plugins, cloud-native.
 
 - **[Apache Kafka](https://kafka.apache.org/)** — Distributed event streaming platform. Foundation for real-time data pipelines and event-driven automation.
+- **[WOML](https://woml.org/)** — Open-source executable markup language for building automated workflows, backend applications, and AI agents
 
 ---
 
