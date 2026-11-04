@@ -124,6 +124,8 @@ Key stats:
 
 - **[Agent Builder](https://productivity.directory/agent-builder)** — *[Review](https://productivity.directory/agent-builder)* — Build your own custom AI assistants with OpenAI's no-code Agent Builder.
 
+- **[DocAsker](https://docasker.com/)** — AI-verified client document collection and onboarding automation platform. Sends no-password Magic Links, validates uploaded PDFs and IDs in real time with AI Gatekeeper, and automates WhatsApp/SMS/Email follow-ups.
+
 ---
 
 ## 🤖 AI Agent Platforms
