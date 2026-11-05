@@ -116,6 +116,8 @@ Key stats:
 
 - **[Automateo](https://automateo.app)** — Create LLM-based workflows that produce consistent, structured AI outputs.
 
+- **[Descriptra](https://descriptra.com)** — AI product content & GEO/SEO catalog automation platform for e-commerce. Bulk-import CSV/Excel catalogs, enrich product specs from the web, and generate localized product descriptions in 22 languages.
+
 - **[Dreamlit AI](https://dreamlit.ai/)** — AI email agent that turns database events into automated email workflows.
 
 - **[Sintra AI](https://sintra.ai/)** — A team of specialized AI helpers for marketing, customer support, sales, recruiting, and data analysis.
