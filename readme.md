@@ -124,6 +124,8 @@ Key stats:
 
 - **[Agent Builder](https://productivity.directory/agent-builder)** — *[Review](https://productivity.directory/agent-builder)* — Build your own custom AI assistants with OpenAI's no-code Agent Builder.
 
+- **[Photta](https://www.photta.app/business)** — Automated e-commerce product photography studio and embedded virtual try-on workflow widget that turns single garment, jewelry, or eyewear photos into on-model lookbooks, 3D ghost mannequins, and live customer try-on experiences.
+
 ---
 
 ## 🤖 AI Agent Platforms
