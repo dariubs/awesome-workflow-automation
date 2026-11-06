@@ -267,13 +267,15 @@ Key stats:
 
 > Cloud platforms for running browser agents at scale.
 
-- **[Browserbase](https://www.browserbase.com/)** — Gold standard browser infrastructure for AI agents. Persistent sessions, stealth mode, session recordings, Playwright and Puppeteer compatible. Raised $40M Series B at $300M valuation (June 2025). Processed 50M+ sessions in 2025.
-
 - **[Apify](https://apify.com/)** — Full web automation platform. Cloud actors, proxy management, scheduling, and an official MCP server for AI agent integration.
 
-- **[Steel](https://steel.dev/)** — Open-source browser infrastructure built specifically for AI agents.
+- **[Browserbase](https://www.browserbase.com/)** — Gold standard browser infrastructure for AI agents. Persistent sessions, stealth mode, session recordings, Playwright and Puppeteer compatible. Raised $40M Series B at $300M valuation (June 2025). Processed 50M+ sessions in 2025.
+
+- **[Cloudbrowser](https://cloudbrowser.tv/)** — Persistent cloud Chrome browsers for AI agents, with isolated sessions, CDP access, Live View, and pause, resume, and fork. Free tier includes 1 browser-hour per UTC month and 1 running browser.
 
 - **[Hyperbrowser](https://hyperbrowser.ai/)** — AI-native browser platform combining natural language commands with Playwright reliability. YC-backed.
+
+- **[Steel](https://steel.dev/)** — Open-source browser infrastructure built specifically for AI agents.
 
 ---
 
