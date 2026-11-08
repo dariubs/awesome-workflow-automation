@@ -243,6 +243,8 @@ Key stats:
 
 - **[Firecrawl](https://www.firecrawl.dev/)** — Web data layer for AI agents. Search the web, navigate pages, and extract structured data from any website. Used inside OpenClaw and many agent stacks.
 
+- **[FlowGlyph](https://github.com/afernandeztem/FlowGlyph)** — Turns UiPath, SAP OData and CPI, BPMN, n8n and OpenAPI automations into a typed catalog of functions with effects and retry safety, with an MCP gateway, a planner that only uses functions that exist, and compilers to BPMN and XAML. Python, Apache-2.0.
+
 - **[ZenML](https://github.com/zenml-io/zenml)** — MLOps + LLMOps framework. Manages the production lifecycle of agents — the "outer loop" that LangChain and CrewAI leave unaddressed.
 
 ---
