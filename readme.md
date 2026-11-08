@@ -267,6 +267,8 @@ Key stats:
 
 > Cloud platforms for running browser agents at scale.
 
+- **[AdsCrawl](https://www.adscrawl.net/)** — Managed cloud browsers for Playwright, Puppeteer, and CDP, plus HTTP APIs for rendered HTML/Markdown, structured data extraction, and screenshots.
+
 - **[Browserbase](https://www.browserbase.com/)** — Gold standard browser infrastructure for AI agents. Persistent sessions, stealth mode, session recordings, Playwright and Puppeteer compatible. Raised $40M Series B at $300M valuation (June 2025). Processed 50M+ sessions in 2025.
 
 - **[Apify](https://apify.com/)** — Full web automation platform. Cloud actors, proxy management, scheduling, and an official MCP server for AI agent integration.
