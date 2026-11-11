@@ -381,6 +381,8 @@ Key stats:
 
 - **[Miro](https://miro.com/)** — Collaborative online whiteboard with workflow visualization and AI features.
 
+- [Novastart](https://novastart.com/) - Infinite-canvas whiteboard OS combining apps, shared canvases, and AI agents in a visual workspace. Free plan available.
+
 - **[draw.io](https://www.drawio.com/)** — Free, open-source diagramming for workflows, architecture diagrams, and flowcharts.
 
 ---
