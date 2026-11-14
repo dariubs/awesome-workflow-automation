@@ -444,6 +444,7 @@ Key stats:
 - [**n8n Academy**](https://academy.n8n.io/)
 - [**Power Automate: Beginner's Guide**](https://www.youtube.com/watch?v=U8BPqM0tmXo)
 - [**Make Tutorials**](https://www.youtube.com/c/IntegromatOfficial)
+- [**WorkflowExercise**](https://workflowexercise.com/) — Free interactive practice labs for n8n and Make.com expressions, with real JSON payloads and automatically checked answers.
 
 ### AI Agents & Frameworks
 - [**CrewAI Documentation & Quickstart**](https://docs.crewai.com/)
