@@ -321,6 +321,7 @@ Key stats:
 - **[MCP TypeScript SDK](https://github.com/modelcontextprotocol/typescript-sdk)** — Official TypeScript SDK for building MCP servers and clients
 - **[MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)** — Official Python SDK
 - **[Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)** — Community-curated list of 500+ MCP servers
+- **[No Stairs Please MCP](https://nostairsplease.com/mcp)** - Hosted MCP server and live-music venue directory for querying venue specs, load-in accessibility, and tour routes across the US and Canada
 
 ### Platforms with MCP Support
 
