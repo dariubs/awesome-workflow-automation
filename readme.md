@@ -124,6 +124,8 @@ Key stats:
 
 - **[Agent Builder](https://productivity.directory/agent-builder)** — *[Review](https://productivity.directory/agent-builder)* — Build your own custom AI assistants with OpenAI's no-code Agent Builder.
 
+- **[BeeAI](https://bee.njstack.com/)** — Desktop app that turns a described task into a reusable visual workflow, with tool connections and a knowledge base.
+
 ---
 
 ## 🤖 AI Agent Platforms
