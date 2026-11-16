@@ -104,7 +104,7 @@ Key stats:
 
 - **[Gumloop](https://www.gumloop.com/)** — AI-first no-code workflow canvas. Visual nodes + flows + subflows. Used by teams at Cursor and Ramp.
 
-- **[Relay.app](https://www.relay.app/)** — Simple AI workflow builder with human-in-the-loop approvals. Clean UI, great for non-technical teams.
+- **[Cedric](https://meet-cedric.com/)** - AI teammate that runs work across the tools a team already uses, on a schedule or when asked. Asks for approval before anything goes out.
 
 - **[Latenode](https://latenode.com/)** — Build AI Agents and Integrate with Apps & APIs. 300+ integrations, JavaScript support, visual builder, messenger automation (WhatsApp, Telegram, LinkedIn).
 
@@ -153,7 +153,7 @@ Key stats:
 
 - **[Gumloop](https://www.gumloop.com/)** — Visual AI-first canvas. Nodes + subflows + templates for common AI automations. 1,000 free credits on signup.
 
-- **[Relay.app](https://www.relay.app/)** — Approvals, human-in-the-loop flows, and a clean UI. Used by teams at Cursor, Ramp, and Motion.
+- **[Cedric](https://meet-cedric.com/)** - Hosted AI teammate in Slack, Telegram and Discord. Joins the team's calls, pulls live data from connected apps and does the follow-up, with human approval before anything goes out.
 
 - **[Relevance AI](https://relevanceai.com/)** — No-code multi-agent platform. Build, collaborate on, and deploy agent workforces.
 
