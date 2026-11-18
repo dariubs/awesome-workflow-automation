@@ -84,6 +84,8 @@ Key stats:
 
 - **[Automate.io](https://automate.io/)** — *[Review](https://productivity.directory/automate-io)* — Integrate apps and automate business workflows.
 
+- **[Paddle HubSpot Sync](https://github.com/smartprov05/paddle-hubspot-sync)** — Open-source serverless webhook connector syncing Paddle Billing subscriptions, MRR, and transactions to HubSpot CRM.
+
 - **[Albato](https://albato.com/)** — No-code automation platform for connecting apps without technical expertise.
 
 - **[Node-RED](https://nodered.org/)** — Low-code event-driven programming for IoT and workflow automation. Open-source, browser-based flow editor.
