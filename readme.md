@@ -132,6 +132,8 @@ Key stats:
 
 > Run on your own machine. Private, always-on, multi-channel. This is where personal AI automation is headed.
 
+- [EXTREMELY Autonomous Agents](https://github.com/maxkxd/extremely-autonomous-agents) - Free, open-source autonomous AI agency that runs on your own computer on Mac, Windows and Linux. Agents work around the clock, build the tools they need and only ask you when you choose. Bring your own Claude, ChatGPT or local models.
+
 - **[OpenClaw](https://github.com/openclaw/openclaw)** ⭐ — Your own personal AI assistant. Runs locally on any OS. Connects to WhatsApp, Telegram, Slack, Discord, Signal, iMessage, Microsoft Teams, Matrix, and more. Uses natural language — no predefined workflows needed. Features browser control, cron jobs, voice via ElevenLabs, multi-agent routing, Canvas workspace, and a public skill registry ([ClawHub](https://github.com/VoltAgent/awesome-openclaw-skills)) with 5,700+ community skills. Privacy-first. MIT license.
 
 - **[GhostClaw](https://github.com/b1rdmania/ghostclaw)** — An AI agent that lives on your computer and works for you. Message it on Telegram like a co-worker. Reads email, does research, runs scheduled tasks. Built on Claude Code + Agent SDK. No containers, no cloud. 10 minutes to set up. MIT license.
