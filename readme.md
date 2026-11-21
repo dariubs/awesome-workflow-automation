@@ -332,6 +332,7 @@ Key stats:
 - **Cursor** — MCP client
 - **Claude Code** — MCP client; extend coding workflows with external services
 - **Pipedream** — MCP server with 10,000+ tools
+- **[Open Flow](https://openflow.run/en/install/mcp/)** — Official MCP server (`/v1/mcp`) and CLI for authoring, validating, running, and approving visual workflows with coding agents
 - **Playwright MCP** — Browser automation accessible via MCP
 - **Langflow** — Build and deploy MCP servers visually
 
