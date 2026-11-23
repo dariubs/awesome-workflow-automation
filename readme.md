@@ -135,6 +135,8 @@ Key stats:
 - **[OpenClaw](https://github.com/openclaw/openclaw)** ⭐ — Your own personal AI assistant. Runs locally on any OS. Connects to WhatsApp, Telegram, Slack, Discord, Signal, iMessage, Microsoft Teams, Matrix, and more. Uses natural language — no predefined workflows needed. Features browser control, cron jobs, voice via ElevenLabs, multi-agent routing, Canvas workspace, and a public skill registry ([ClawHub](https://github.com/VoltAgent/awesome-openclaw-skills)) with 5,700+ community skills. Privacy-first. MIT license.
 
 - **[GhostClaw](https://github.com/b1rdmania/ghostclaw)** — An AI agent that lives on your computer and works for you. Message it on Telegram like a co-worker. Reads email, does research, runs scheduled tasks. Built on Claude Code + Agent SDK. No containers, no cloud. 10 minutes to set up. MIT license.
+  
+- **[Octuo](https://www.tutuo.ai/en/octuo)** — Coordinator and unified entry point for heavy agent users that prepares the work, delegates each part to the right agent (Claude Code, Codex, MCP tools, browser, and files), and follows up until it is done, especially on long tasks; native on Mac (macOS 15+) with an iPhone companion (iOS 18+), plans from $20/month with 1,000 trial credits and no card required.
 
 - **[Openwork](https://github.com/accomplish-ai/openwork)** — MIT-licensed open alternative to Anthropic's Cowork with multi-LLM support for browser automation.
 
