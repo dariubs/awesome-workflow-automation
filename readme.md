@@ -354,6 +354,7 @@ Key stats:
 - **[Kestra](https://kestra.io/)** — Open-source declarative workflow orchestration. YAML-based, 500+ plugins, cloud-native.
 
 - **[Apache Kafka](https://kafka.apache.org/)** — Distributed event streaming platform. Foundation for real-time data pipelines and event-driven automation.
+- **[Public Records data workflows](https://github.com/GeminiGeorge22/publicrecords-mcp/tree/main/templates)** — 17 ready-to-import n8n workflows (plus Make/Zapier/Pipedream HTTP recipes) that pull public data via Apify: SAM.gov and Grants.gov notices, USAspending awards, EU TED and UK tenders, city council agendas, Ashby/Greenhouse/Lever/SmartRecruiters jobs, Etsy sales, Google Ads Transparency, sports odds, Spotify plays.
 
 ---
 
