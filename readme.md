@@ -347,6 +347,8 @@ Key stats:
 
 - **[Temporal](https://temporal.io/)** — Durable workflow execution platform. Handles retries, timeouts, and long-running distributed workflows reliably.
 
+- **[Dapr Workflow](https://docs.dapr.io/developing-applications/building-blocks/workflow/workflow-overview/)** — Durable execution engine built into Dapr, a CNCF graduated project. Code-first workflows in .NET, Go, Java, JavaScript and Python that resume after crashes.
+
 - **[Windmill](https://www.windmill.dev/)** — Open-source platform for building workflows, data pipelines, cron jobs, and scripts from code.
 
 - **[Dagster](https://dagster.io/)** — Data orchestration built around software-defined assets. Strong observability and testing support.
