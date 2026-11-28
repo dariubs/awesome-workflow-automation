@@ -163,6 +163,8 @@ Key stats:
 
 - **[Agentforce (Salesforce)](https://www.salesforce.com/agentforce/)** — Salesforce's agentic AI platform. Deploy AI agents directly inside Slack as virtual teammates.
 
+- **[MindPal](https://mindpal.space)** — No-code builder where coaches, consultants, agencies and educators turn their expertise into AI agents and multi-step workflows, published as chatbots and AI tools for their clients. Free plan.
+
 ### 🏢 Enterprise AI Automation
 
 - **[UiPath](https://www.uipath.com/)** — Leading enterprise RPA + AI platform. Combines bots, AI, and process mining at scale.
